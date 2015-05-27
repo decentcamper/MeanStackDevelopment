@@ -1,2 +1,2 @@
-define(['../node/amdmodule'], function (amdmodule) {
+define(['../node/vivek'], function (vivek) {
 });

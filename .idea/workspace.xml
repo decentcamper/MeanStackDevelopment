@@ -2,66 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/addToGlobal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/client/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/module.exports/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/clearInterval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/delete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/deleteSync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/dir_base_ext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/join.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setInterval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setTimeout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" />
@@ -75,6 +22,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" />
@@ -84,6 +33,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" />
@@ -107,6 +57,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MeanStackDevelopment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,103 +78,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.8">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="this1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js">
+      <file leaf-file-name="bar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="98" selection-start-line="46" selection-start-column="98" selection-end-line="46" selection-end-column="98" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/client/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="foo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.144">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error4.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js">
+      <file leaf-file-name="vivek.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="3" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31120333">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="amdmodule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -258,6 +207,14 @@
         <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error2.js" />
         <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
         <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/stdin.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" />
       </list>
     </option>
   </component>
@@ -269,10 +226,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1922" />
     <option name="y" value="23" />
-    <option name="width" value="1922" />
-    <option name="height" value="1040" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -330,176 +286,6 @@
               <option name="myItemId" value="NodeJS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="os" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorial_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -521,20 +307,20 @@
       <recent name="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.revealingModule.js">
-    <configuration default="false" name="anon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="anon.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions">
+  <component name="RunManager" selected="Node.js.server.js (2)">
+    <configuration default="false" name="isType.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="isType.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util">
       <method />
     </configuration>
-    <configuration default="false" name="objectLiterals1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="objectLiterals1.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base">
       <method />
     </configuration>
-    <configuration default="false" name="objectLiterals2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="objectLiterals2.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects">
+    <configuration default="false" name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play">
       <method />
     </configuration>
-    <configuration default="false" name="objectLiterals3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="objectLiterals3.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node">
       <method />
     </configuration>
-    <configuration default="false" name="revealingModule.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="revealingModule.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs">
+    <configuration default="false" name="server.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -574,19 +360,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.NodeJSRunConf" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.anon.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.objectLiterals1.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.objectLiterals2.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.objectLiterals3.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.revealingModule.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.isType.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.server.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.revealingModule.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.objectLiterals3.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.objectLiterals2.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.objectLiterals1.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.anon.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.isType.js" />
       </list>
     </recent_temporary>
   </component>
@@ -613,25 +399,37 @@
       <option name="project" value="LOCAL" />
       <updated>1432441296344</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The Checkins for the first tutorial">
+      <created>1432590640940</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1432590640940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The Checkins for the first tutorial">
+      <created>1432690921071</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1432690921071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1922" y="23" width="1922" height="1040" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="832" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33544305" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33243242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13150974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34850052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3192389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39864865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4445946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31118143" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3108108" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -834,6 +632,152 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="92" selection-start-line="2" selection-start-column="92" selection-end-line="2" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/stdin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/addToGlobal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/client/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -842,18 +786,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.144">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31120333">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>

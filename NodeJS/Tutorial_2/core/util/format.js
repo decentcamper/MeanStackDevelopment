@@ -1,5 +1,5 @@
 var util = require('util');
-var name = 'nate';
+var name = 'Vivek';
 var money = 33;
 
 // prints: nate has 33 dollars
