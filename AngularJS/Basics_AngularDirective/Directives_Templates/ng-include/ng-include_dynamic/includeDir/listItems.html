@@ -1,0 +1,10 @@
+<!--In this example we have an ol element to denote an ordered list and use the ng-repeat directive on an
+li element to generate list items for each to-do. I use the ng-if directive,
+which I applied in a previous example to control the inclusion of a span element
+for those to-do items that are complete.-->
+<ol>
+    <li ng-repeat="item in todos">
+        {{item.action}}
+        <span ng-if="item.complete"> (Done)</span>
+    </li>
+</ol>

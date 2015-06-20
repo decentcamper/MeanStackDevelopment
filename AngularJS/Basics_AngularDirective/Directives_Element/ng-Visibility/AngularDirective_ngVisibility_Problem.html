@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html ng-app="exampleApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst"></script>
+    <script>
+        angular.module("exampleApp", [])
+                .controller("defaultCtrl", function ($scope) {
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+                });
+    </script>
+
+    <!--You will see that the style that I added tothe page  applied only when the to-do item is incomplete, -->
+    <!--even though I specified that the first child of td elements should be bold:-->
+    <style>
+        td > *:nth-child(1) {font-weight: bold}
+    </style>
+</head>
+<body>
+<pre class="prettyprint">
+<p>
+I have used the ng-show and ng-hide directives to control the visibility of span elements in the last
+cell of each row of the table. This is a contrived example because I could achieve the same effect using an in-data binding,
+but I need an example that demonstrates a particular problem, as will become clear shortly.
+The ng-show and ng-hide directives control element visibility by adding and removing elements from a class called,
+confusingly, ng-hide. The ng-hide class applies a CSS style that sets the display property to none, removing the element
+from view.
+The difference between ng-show and ng-hide is that ng-show hides elements when its expression evaluates to
+false and ng-hide hides elements when its expression evaluates to true.
+This example also contains a check box that sets the complete property of the third to-do item.
+I added this to demonstrate that ng-show and ng-hide are, like all other directives, wired up to use data bindings and
+to demonstrate a limitation of the way that these directives work.
+    </p>
+    </pre>
+<div id="todoPanel" class="panel" ng-controller="defaultCtrl">
+    <h3 class="panel-header">To Do List</h3>
+
+    <table class="table well">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Action</th>
+            <th>Done[With ngShow/Hide]</th>
+            <th>Done With ngIf</th>
+            <th>Mark Complete</th>
+        </tr>
+        </thead>
+        <tr ng-repeat="item in todos " >
+            <td>{{$index + 1}}</td>
+            <td>{{item.action}}</td>
+            <td>
+                <span ng-hide="item.complete">(Incomplete)</span>
+                <span ng-show="item.complete">(Done)</span>
+            </td>
+            <td>
+                <span ng-if="!item.complete">(Incomplete)</span>
+                <span ng-if="item.complete">(Done)</span>
+            </td>
+            <td >
+                <label for="item_{{$index}}">Completed</label>
+                <input type="checkbox" ng-model="todos[$index].complete" id="item_{{$index}}" class="checkbox-inline" checked="todos[$index].complete">
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

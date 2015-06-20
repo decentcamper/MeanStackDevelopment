@@ -1,0 +1,25 @@
+
+<!--Another common directive is the ngClick directive.
+Just like ngShow, ngClick expects an expression, but unlike ngShow,
+this expression is only evaluated when the element it is declared upon is clicked.-->
+
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <title>Basic Directive Example</title>
+    <script src="../bower_components/angular/angular.min.js"></script>
+</head>
+<body>
+<button ng-click="count = count + 1" ng-init="count = 0">
+    Increment
+</button>
+count: {{count}}
+</body>
+</html>
+
+<!--As you might have guessed, clicking the Increment button causes the value of count to increment. Each time the button is clicked, ngClick evaluates the expression. As the count variable is used in an expression binding, we can see its value updated in real time.
+Here we have also used the ngInit directive.
+You typically won’t use ngInit very much, if at all, for reasons that will make more sense when I discuss the MVC (Model View Controller)
+approach predominantly used in AngularJS applications.
+However, here we use it to initialize the count variable to 0.
+You could just as easily have set this value to, say, 10, in order to increment from a starting value of 10 instead of 0.-->

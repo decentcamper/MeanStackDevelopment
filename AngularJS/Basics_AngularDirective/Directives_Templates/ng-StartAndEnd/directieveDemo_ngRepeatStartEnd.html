@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="directiveDemoApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.min.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script>
+        angular.module("directiveDemoApp", [])
+                .controller("directiveDemoAppCtrl", function ($scope) {
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+                });
+    </script>
+</head>
+<body>
+<div id="todoPanel" class="panel" ng-controller="directiveDemoAppCtrl">
+    <h3 class="panel-header">To Do List</h3>
+    <table class="table">
+        <tbody>
+        <tr ng-repeat-start="item in todos">
+            <td>This is item {{$index}}</td>
+        </tr>
+        <tr>
+            <td>The action is: {{item.action}}</td>
+        </tr>
+        <tr ng-repeat-end>
+            <td>Item {{$index}} is {{$item.complete? '' : "not "}} complete</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

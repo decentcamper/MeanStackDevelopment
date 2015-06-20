@@ -1,0 +1,23 @@
+<!--All that we have done here is to move the ngApp directive out of the opening HTML element
+and place it on the first paragraph element. We also added another paragraph element,
+which is almost identical to the first. However this one is without an ngApp directive.
+Two interesting things happen:
+The first interesting thing is that the expression binding in the first paragraph worked just as it did before.
+Even though we relocated the ngApp directive, the expression binding is still nested within its boundaries and, therefore,
+still under AngularJS control.
+The second interesting thing is that the second paragraph uses an expression too.
+ However, this expression binding simply renders as is; it is not evaluated at all.
+ AngularJS simply isn’t interested in it, because it is not contained within the boundaries of an ngApp directive.
+  In fact, AngularJS has no knowledge of this particular paragraph element or anything contained within it.-->
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p ng-app>Hello {{'Wor' + 'ld'}}</p>
+<p>Hello {{'Wor' + 'ld'}}</p>
+<script src="../../bower_components/angular/angular.min.js"></script>
+</body>
+</html>

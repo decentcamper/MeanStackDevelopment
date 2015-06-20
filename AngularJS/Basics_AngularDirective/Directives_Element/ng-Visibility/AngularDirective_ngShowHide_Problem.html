@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html ng-app="problematicApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script>
+        angular.module('problematicApp',[]).controller('problematicCtrl', function($scope){
+                    $scope.data = [
+                        {action:"Call Mom" , complete:false},
+                        {action:"Call Brother" , complete:false},
+                        {action:"Call Dad" , complete:false},
+                        {action:"Call Andy" , complete:false},
+                        {action:"Call Sheran" , complete:false},
+                        {action:"Call Someone" , complete:false}
+                    ]
+                }
+        );
+        </script>
+    <style>
+
+        .completed {background-color: #00b3ee}
+        .incomplete {background-color: coral}
+
+    </style>
+
+    <body ng-app="problematicApp" ng-controller="problematicCtrl">
+<div id="toDoPanel" class="panel">
+    <div class="checkbox well">
+        <label>
+            <input type="checkbox" ng-model="data[2].complete">
+            {{data[2].action}} is Complete....
+        </label>
+    </div>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Actions</th>
+            <th>Is Complete</th>
+        </tr>
+        </thead>
+        <tr ng-repeat="item in data" ng-class="item.complete ? 'completed' : 'incomplete' ">
+            <td>
+                {{$index +1}}
+            </td>
+            <td ng-repeat="prop in item" >
+                {{prop}}
+            </td>
+            <td>
+                    <label for="CheckBox_{{$index}}" class="label"> Mark Completed</label>
+                    <input type="checkbox" class="checkbox-inline" id="CheckBox_{{$index}}" ng-model="data[$index].complete" ng-checked="false">
+
+
+            </td>
+
+        </tr>
+
+    </table>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+   </body>

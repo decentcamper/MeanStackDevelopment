@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Number Filter Demo</title>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+        angular.module('myNumberFilterApp',[]).
+                controller('MyNumberFilterDemoCtrl', function($scope) {
+            var someData = {
+                firstName: 'JENNA',
+                surname: 'GRANT',
+                dateJoined: new Date(2010, 2, 23),
+                consumption: 123.659855,
+                plan: 'super-basic-plan'
+            };
+
+            $scope.data = someData;
+
+        });
+    </script>
+
+</head>
+<body ng-app="myNumberFilterApp" ng-controller="MyNumberFilterDemoCtrl">
+
+<p>
+    Consumption: {{data.consumption }}<br/>
+    Consumption: {{data.consumption | number }}
+  <!-- he number filter takes a single parameter, which lets you tell
+  it how many decimal places to round a number to. -->
+    <p>Data used this quarter:<strong> {{ data.consumption | number:2 }} </strong>gigabytes</p>
+</p>
+
+</body>
+</html>

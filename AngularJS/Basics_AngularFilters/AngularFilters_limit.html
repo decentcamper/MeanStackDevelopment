@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Limit Filter Demo</title>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+        angular.module('MyAppLimitFilterDemo', []).
+                controller('MyLimitFilterDemoCtrl', function ($scope) {
+
+                    var someData = {
+                        firstName: 'JENNA',
+                        surname: 'GRANT',
+                        dateJoined: new Date(2010, 2, 23),
+                        consumption: 123.659855,
+                        plan: 'super-basic-plan',
+
+                        // Last 12 months of data usage
+                        monthlyUsageHistory: [123.659855,
+                            89.645222,
+                            97.235644,
+                            129.555555,
+                            188.699855,
+                            65.652545,
+                            123.659855,
+                            89.645222,
+                            97.235644,
+                            129.555555,
+                            188.699855,
+                            65.652545]
+                    };
+
+
+                    $scope.data = someData;
+
+                });
+    </script>
+
+</head>
+
+
+<body ng-app="MyAppLimitFilterDemo" ng-controller="MyLimitFilterDemoCtrl">
+<h2>Gigabytes used over the last 3 months</h2>
+<!--Using ngRepeat, we loop through the monthlyUsageHistory array and
+output each value (which itself is formatted using the number filter).
+As Figure 4-5 shows, only the first five items are displayed.
+This is because we did not, in fact, loop through the monthlyUsageHistory array.
+What we actually did was loop through a totally new array;
+an array which was produced by the limitTo filter.-->
+
+<ul>
+    <li ng-repeat="gigabytes in data.monthlyUsageHistory | limitTo:5">
+        {{ gigabytes | number:2}}
+    </li>
+</ul>
+
+
+</body>
+</html>

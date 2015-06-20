@@ -1,0 +1,30 @@
+<!--In the first line of the program, we have the HTML5 doctype.
+Though this is not strictly necessary for AngularJS to work, it is the doctype you should be using for today’s rich Internet applications.
+The second line is where it becomes interesting.
+We have declared an ngApp directive within the opening HTML element.
+We use ngApp to let AngularJS know which element is to be considered the root of the application.
+As we have declared it within the HTML element, we are declaring that the whole document is to be “under the control” of AngularJS.
+Moving down to the fifth line, you can see that we have included the AngularJS library using the script element.
+If we didn’t include the AngularJS library, we wouldn’t see any AngularJS goodness.
+Now for something very exciting: if you move down to the eighth line, you will see an AngularJS expression,
+as delimited by the opening and closing double curly braces—{{ and }}.
+We keep things nice and simple here and concatenate the two string literals 'Wor' and 'ld'.
+AngularJS expressions are powerful, and you will see many of them in this book.
+Here we use one in a somewhat contrived way, simply to illustrate how they are put into action.
+The interpolated value is, of course, the string World.
+When we place an expression between double curly braces like this, we create an expression binding.
+In a nutshell, this means that the value of the expression is bound. Anytime it changes, the binding will update too.
+Bindings and expressions will be second nature to you in no time, as these are at the core of how AngularJS works.
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body ng-app>
+<p>Hello {{2 + 2}}</p>
+<script src="../../bower_components/angular/angular.min.js"></script>
+</body>
+</html>

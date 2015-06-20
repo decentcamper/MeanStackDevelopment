@@ -1,0 +1,31 @@
+<!--Here we have declared the expected ngApp directive and AngularJS script reference with which, it is hoped, you are already comfortable.
+ The two important lines are the two lines contained within the body element.
+The first declares a standard HTML text input, but with one very important addition—the ngModel directive, which we have assigned the value of city.
+The second line, via an expression binding, uses this value to reference the text that the end user enters into the text field. -->
+<!DOCTYPE html>
+<html ng-app>
+
+<head>
+    <title>Binding Example</title>
+    <script src="../../bower_components/angular/angular.min.js"></script>
+</head>
+
+<body>
+
+<label>City: </label><input ng-model="city" type="text" /></label>
+<p>You entered: {{city}}</p>
+ <pre> This is where the magic starts to happen.
+    Start typing into the text field and watch as the text in the paragraph below the text field updates in real time.
+    What makes it so magical is the amount of code that it took to achieve this result—not very much code at all, no?
+    It's not really magic, of course. At least not in the Harry Potter sense.
+    However, something very sophisticated is clearly taking place.
+    Already, we can see that AngularJS must be hard at work for us, monitoring the application for data changes,
+    updating the DOM to show these changes to the end user, and other things that we are yet to encounter.
+    Other frameworks require that you tackle some or all of this work yourself. AngularJS wants you to focus on your primary concern-your application,
+    not its plumbing.
+    Another interesting point is that we didn’t actually write any JavaScript code!
+    You will find that AngularJS has a strong lean toward a declarative, as opposed to a procedural, coding style.
+    Obviously, you have to write JavaScript at some point or other, but AngularJS encourages you to put this in the right parts of your application.
+    As you might expect, a good portion of this book will look at just what constitutes these "right parts."</pre>
+</body>
+</html>

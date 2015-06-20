@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html ng-app="exampleApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst"></script>
+    <script>
+        angular.module("exampleApp", [])
+                .controller("defaultCtrl", function ($scope) {
+
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+
+                    $scope.buttonNames = ["Red", "Green", "Blue"];
+
+                    $scope.data = {
+                        rowColor: "Blue",
+                        columnColor: "Green"
+                    };
+
+                    $scope.handleEvent = function (e) {
+                        console.log("Event type: " + e.type);
+                        $scope.data.columnColor = e.type == "mouseover" ? "Green" : "Blue";
+                    }
+                });
+    </script>
+    <style>
+        .Red { background-color: lightcoral; }
+        .Green { background-color: lightgreen; }
+        .Blue { background-color: lightblue; }
+    </style>
+</head>
+<body>
+
+<pre class="prettyprint">
+<p>
+
+I have applied the ng-click directive to a set of button elements that I generate using the ng-repeat directive. The expression that I have specified will be evaluated when one of the buttons is clicked, directly updating a value in the data model, as follows:
+...
+<button class="btn btn-info" ng-click="data.rowColor = button">
+    {{button}}
+</button>
+...
+I assign a new value to the rowColor property defined by the controller, which is used by the ng-class directive I added to the tr elements for the table. The effect is that clicking one of the buttons changes the background color of the table rows.
+image Tip  Unrelated to events, notice that when I use the ng-repeat directive to create a set of buttons in the example, I applied the directive to a span element, rather than to the button elements directly. Without the span element, there is no spacing between the buttons, which is not the effect I wanted to create.
+
+If you are uncomfortable using inline expression—and many developers are—or if you need to perform complex logic, then you can define a behavior in the controller and invoke it from the event directive. This is what I did with the tr elements I create in the example:
+...
+< ng-repeat="item in todos" ng-class="data.rowColor"
+    ng-mouseenter="handleEvent($event)" ng-mouseleave="handleEvent($event)">
+    ...
+    I have applied the ng-mouseenter and ng-mouseleave directives to the tr elements, specifying that the handleEvent behavior should be invoked. This is similar to the traditional model of JavaScript event handling, and to access the Event object, I use the special $event variable, which all of the event directives define.
+    You must be careful when handling events in behaviors because there is a mismatch between the event names that AngularJS uses for the names of the directives and the value of the type property of the underlying events. In this example, I have added directives to handle the mouseenter and mouseleave events, but I receive different events in the behavior function:
+    ...
+    $scope.handleEvent = function (e) {
+    console.log("Event type: " + e.type);
+    $scope.data.columnColor = e.type == "mouseover" ? "Green" : "Blue";
+    }
+    ...
+    The safest way to figure out which events you will receive in the behavior is to set up the function and use console.log to write the value of the type property to the console. In this way, I am able to tell that the mouseenter event will really be presented as mouseover and that the mouseleave event will be represented by mouseout. I check the type of the event I received and set the value of the data.columnColor model property to either Green or Blue.
+    This value is used by the ng-class directive I applied to one of the td elements in the table, which has the effect of changing the color of the final table column when the mouse enters and leaves table rows.
+
+</p>
+    </pre>
+<div id="todoPanel" class="panel" ng-controller="defaultCtrl">
+    <h3 class="panel-header">To Do List</h3>
+
+    <div class="well">
+            <span ng-repeat="button in buttonNames">
+                <button class="btn btn-info" ng-click="data.rowColor = button">
+                    {{button}}
+                </button>
+            </span>
+    </div>
+
+    <table class="table">
+        <thead>
+        <tr><th>#</th><th>Action</th><th>Done</th></tr>
+        </thead>
+        <tr ng-repeat="item in todos" ng-class="data.rowColor"
+            ng-mouseenter="handleEvent($event)"
+            ng-mouseleave="handleEvent($event)">
+            <td>{{$index + 1}}</td>
+            <td>{{item.action}}</td>
+            <td ng-class="data.columnColor">{{item.complete}}</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

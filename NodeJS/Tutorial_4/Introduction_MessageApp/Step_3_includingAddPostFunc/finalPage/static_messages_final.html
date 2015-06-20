@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+</head>
+<body ng-app='app'>
+<div ng-controller='MessageCtrl' class='container'>
+    <h1>Recent Messages</h1>
+
+    <!--  Here we are adding a form to add the button -->
+    <form role='form'>
+        <div class='form-group'>
+            <div class='input-group'>
+                <input ng-model='messageBody' class='form-control'/>
+                  <span class='input-group-btn'>
+                    <button ng-click='addMessageFinal()' class='btn btn-default'>Add Message</button>
+                  </span>
+            </div>
+        </div>
+    </form>
+
+
+    <ul class='list-group'>
+        <li ng-repeat='message in messages' class='list-group-item'>
+            <strong>@{{ message.username }}</strong>
+            <span>{{ message.body }}</span>
+        </li>
+    </ul>
+</div>
+<script src='../../../bower_components/angular/angular.min.js'></script>
+<script>
+    /**
+     * This code creates the new module with no dependencies..
+     * @type {module|*}
+     */
+    var app = angular.module('app', []);
+    /**
+     * In the following code we are adding the controller to our app.
+     */
+    app.controller('MessageCtrl', function ($scope) { // scope is an object injected by the angular....
+        /**
+         * In this code we attempt to add the data to the scope.....
+         * @type {*[]}
+         */
+        $scope.messages = [
+            {
+                username: 'viveksh2',
+                body: 'Mean Stack rocks!'
+            },
+            {
+                username: 'er.viveksharma',
+                body: 'trying out angular.js...'
+            }
+        ];
+
+        /**
+         * This is the method which is called by the
+         * click of the button. Checkout how is bound
+         * to the ng-click attribute....
+         */
+
+        $scope.addMessage = function () {
+            /**
+             * Unshift is a JS method to
+             * place an element at the start of the array..
+             */
+            $scope.messages.unshift({
+                username: "vivek_ynr",
+                body: "Good Morning People"
+            });
+        };
+
+
+        /**
+         * This is new method added
+         */
+        $scope.addMessageFinal = function(){
+            // Only add a post if there is a body
+            if ($scope.messageBody) {
+                // unshift a new post into $scope.messages
+                $scope.messages.unshift({
+                    username: 'vivek_ynr',
+                    body: $scope.messageBody // use the text entered
+                });
+                // clear out the input field
+                $scope.messageBody = null
+            }
+
+
+
+        };
+
+
+    })
+</script>
+</body>
+</html>

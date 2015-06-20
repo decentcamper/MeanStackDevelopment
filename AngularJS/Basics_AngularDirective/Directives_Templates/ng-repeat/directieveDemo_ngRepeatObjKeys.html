@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html ng-app="directiveDemoApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.min.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script>
+        angular.module("directiveDemoApp", [])
+                .controller("directiveDemoAppCtrl", function ($scope) {
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+                });
+    </script>
+</head>
+<body>
+<div id="todoPanel" class="panel" ng-controller="directiveDemoAppCtrl">
+    <h3 class="panel-header">To Do List</h3>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Action</th>
+            <th>Done</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        <!--There are two parts to using the ng-repeat directive.
+        The first is to specify the source of the data objects and
+        the name by which you want
+        to refer to the object that is being processed from within the template:-->
+        <tr ng-repeat="item in todos">
+            <td ng-repeat="(key, value) in item">
+                {{key}}={{value}}
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

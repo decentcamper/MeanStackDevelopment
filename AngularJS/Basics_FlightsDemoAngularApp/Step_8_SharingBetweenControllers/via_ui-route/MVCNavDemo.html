@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ng-app="flightArrival">
+<head>
+    <title>Flight Demo App</title>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <script src="../../../../bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="js/flightApp.js"></script>
+    <script src="js/controllers/controllers.js"></script>
+    <script src="js/filters/filters.js"></script>
+    <script src="js/services/dataService.js"></script>
+    <script src="../../../../bower_components/underscore/underscore.js"></script>
+ <style>
+     .top-buffer { margin-top:70px; }
+
+ </style>
+</head>
+<body ng-controller="FlightArrivalCtrl">
+
+<!--Adding the navigation-->
+
+
+
+<div class="container-fluid">
+    <div class="row"><a href="#"><img class="ban" src="gateway_banner.jpg"></a></div>
+
+    <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar top-buffer">
+
+            <ul class="nav navbar-default nav-sidebar ">
+                <li><a ui-sref="home">View Flights</a></li>
+                <li><a href="#">Category</a></li>
+                <li><a href="#">Category</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-9 col-md-10 main" ui-view>
+
+
+        </div>
+        </div>
+
+</div>
+<!--<div id="content" ui-view></div>-->
+
+</body>
+</html>

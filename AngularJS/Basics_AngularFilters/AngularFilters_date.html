@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Date Filter Demo</title>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+        angular.module('myDateFilterApp', []).
+                controller('MyDateFilterDemoCtrl', function ($scope) {
+                    var someData = {
+                        firstName: 'JENNA',
+                        surname: 'GRANT',
+                        dateJoined: new Date(2010, 2, 23),
+                        anotherDat: "2015-04-18T18:41:44-05:00",
+                        consumption: 123.659855,
+                        plan: 'super-basic-plan'
+                    };
+                    $scope.data = someData;
+
+                });
+    </script>
+
+</head>
+<body ng-app="myDateFilterApp" ng-controller="MyDateFilterDemoCtrl">
+
+<p>medium:<strong> {{ data.dateJoined | date:'medium'}} </strong></p>
+
+<p>mediumDate:<strong> {{ data.dateJoined | date:'mediumDate'}} </strong></p>
+
+<p>shortDate:<strong> {{ data.dateJoined | date:'shortDate'}} </strong></p>
+
+<p>shortDate:<strong> {{ data.anotherDat | date:'medium'}} </strong></p>
+
+
+
+<!--Notice that to produce the month and the day, we use 'MMMM' and 'EEEE',
+respectively, which both appear in Table 4-1. You will not, however, see 'ha',
+as used to produce the time portion (12AM) in Table 4-1.
+You will see an 'h' and an 'a', the former being the hour, and the latter being the AM/PM marker.
+It is perfectly acceptable, and often necessary, to combine date parameters in this manner.
+<p>This customer joined in the month of {{ data.dateJoined | date:'MMMM'}} on a {{
+    data.dateJoined | date:'EEEE'}} at {{ data.dateJoined | date:'ha'}}</p> -->
+
+</body>
+</html>

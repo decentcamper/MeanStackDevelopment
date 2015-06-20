@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html ng-app="flightArrival">
+<head>
+    <title>Flight Demo App</title>
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script>
+        var flightApp = angular.module("flightArrival",[]);
+
+        flightApp.controller("FlightArrivalCtrl", function ($scope) {
+            $scope.fligtsInfo = flightsModel;
+        });
+
+        flightApp.filter('timestampToDate', function () {
+            return function (timestamp) {
+                var date = new Date(timestamp * 1000);
+                var dateObject = date.getFullYear() +'/'+ ('0' + (date.getMonth() + 1)).slice(-2) +'/'+ ('0' + date.getDate()).slice(-2);
+                return dateObject;
+            };
+        });
+
+        flightApp.filter('justCode', function(){
+           return function(airportInfo){
+               var code = airportInfo.substring(airportInfo.indexOf('(')+1, airportInfo.indexOf(')'));
+               return code;
+           }
+        });
+
+        var flightsModel = {
+            flightPageTitle:"UCSC Demo Flight App",
+            flightScehdule: [
+                {id:"JBU915" ,		num:"A321",	code:"John F Kennedy Intl (KJFK)",				dep:"2015-04-18T13:41:56-05:00",		arriv:1434510780},
+                {id:"UAL1731",		num:"B739",	code:"Houston Bush Int'ctl (KIAH)"	,		    dep:"2015-04-18T14:51:50-05:00",		arriv:1434510598},
+                {id:"DAL2773",		num:"B712",	code:"Los Angeles Intl (KLAX)",				    dep:"2015-04-18T14:61:44-05:00",		arriv:1434510502},
+                {id:"EVA28",		num:"B77W",	code:"Taiwan Taoyuan Int'l (RCTP / TPE)",		dep:"2015-04-18T17:81:44-05:00",		arriv:1434510719},
+                {id:"AMF1150",		num:"B190",	code:"Reno/Tahoe Intl (KRNO)",					dep:"2015-04-18T16:51:44-05:00",		arriv:1434510452},
+                {id:"AAL1799",		num:"A321",	code:"Charlotte/Douglas Intl (KCLT)",			dep:"2015-04-18T12:43:44-05:00",		arriv:1434510440},
+                {id:"CAL4",			num:"B744",	code:"Taiwan Taoyuan Int'l (RCTP / TPE)",		dep:"2015-04-18T11:47:44-05:00",		arriv:1434510783},
+                {id:"UAL1497",		num:"B739",	code:"Minneapolis/St Paul Intl (KMSP)",		    dep:"2015-04-18T15:40:44-05:00",		arriv:1434510428},
+                {id:"DAL445",		num:"B752",	code:"John F Kennedy Intl (KJFK)",				dep:"2015-04-18T10:45:44-05:00",		arriv:1434510703},
+                {id:"UAL522"	,	num:"A320",	code:"San Diego Intl (KSAN)",					dep:"2015-04-18T10:49:44-05:00",		arriv:1434510496},
+                {id:"PAL104",		num:"B77W",	code:"Manila Int'l (RPLL / MNL)",				dep:"2015-04-18T13:51:44-05:00",		arriv:1434510778}]
+        };
+
+
+    </script>
+</head>
+<body ng-controller="FlightArrivalCtrl">
+
+
+<div class="page-header">
+    <h1>
+        {{fligtsInfo.flightPageTitle}}
+        <span class="label label-default label-primary">{{fligtsInfo.flightScehdule.length}}</span>
+    </h1>
+</div>
+<div class="panel">
+    <div class="input-group">
+        <input class="form-control"/>
+            <span class="input-group-btn">
+                <button class="btn btn-default">Add</button>
+            </span>
+    </div>
+    <table class="table table-striped table-bordered">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Ident</th>
+            <th>Type</th>
+            <th>From</th>
+            <th>Depart</th>
+            <th>Arrive</th>
+
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="item in fligtsInfo.flightScehdule">
+
+            <td>{{$index+1}}</td>
+            <td>{{item.id}}</td>
+            <td>{{item.num}}</td>
+            <td>{{item.code | justCode}}</td>
+            <td>{{item.dep | date:'medium'}}</td>
+            <td>{{item.arriv |timestampToDate}}</td>
+        </tr>
+
+
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+
+<head>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+  angular.module('myApp',[]).controller('MyFirstCtrl', function($scope){
+      var employees = ['Catherine Grant', 'Monica Grant',
+          'Christopher Grant', 'Jennifer Grant'
+      ];
+      $scope.ourEmployees = employees;
+
+  });
+
+    </script>
+</head>
+
+<body ng-controller='MyFirstCtrl'>
+
+<h2>Number of Employees: {{ ourEmployees.length}}</h2>
+<p ng-repeat="employee in ourEmployees">{{employee}}</p>
+
+</body>
+</html>

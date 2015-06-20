@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Listing 4-2</title>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+        angular.module('filterAppCase', []).controller('MyFilterDemoCtrl', function ($scope) {
+
+
+            //Data like this would typically come back from a request to a web service or a database,
+            // but we only want some sample data, so that we can learn about AngularJS filters without
+            // the additional distraction of data access code.
+            // This fictitious data, captured in a JavaScript object we have named someData ,
+            // represents some customer details. We will use this data as the chapter progresses,
+            // starting now with a first look at the AngularJS filter syntax.
+
+            var someData = {
+                firstName: 'JENNA',
+                surname: 'GRANT',
+                dateJoined: new Date(2010, 2, 23),
+                consumption: 123.659855,
+                plan: 'super-basic-plan'
+            };
+            someData.firstName = someData.firstName.toLowerCase();
+            someData.surname = someData.surname.toLowerCase();
+            $scope.data = someData;
+
+        });
+
+    </script>
+
+</head>
+<body ng-app="filterAppCase" ng-controller="MyFilterDemoCtrl">
+
+<p>
+    <!-- Unfiltered data -->
+    <strong>First Name</strong>: {{data.firstName}}<br/>
+    <strong>Surname:</strong> {{data.surname}}
+</p>
+
+<p>
+    <!-- Filtered data -- The first filter we will look at will address the issue
+    of the firstName and surname appearing in uppercase.
+    To improve this slightly, we will change it to lowercase.
+    To achieve this, the main thing to know is that you use the | (pipe) character,
+    to invoke a filter. -->
+    <strong>First Name</strong>: {{data.firstName }}<br/>
+    <strong>Surname:</strong> {{data.surname }}
+</p>
+
+</body>
+</html>

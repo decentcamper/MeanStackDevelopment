@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="../js/formApp.js"></script>
+</head>
+<body>
+<div ng-app="registrationApp" ng-controller="regCtrl">
+
+    <form name="registrationForm" class="form-horizontal">
+
+        <div class="well">
+
+
+        <div class="form-group">
+            <label for="firstName" class="control-label col-sm-2">First Name:</label>
+            <div class="col-sm-5">
+            <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
+                   required class="form-control col-sm-10">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="lastName" class="control-label col-sm-2"> Last Name: </label>
+            <div class="col-sm-5">
+                <input type="text" id="lastName" placeholder="Last Name" name="lastName" ng-model="person.lastName"
+                       required class="form-control">
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <label for="email" class="col-sm-2 control-label"> Email Address: </label>
+            <div class="col-sm-5">
+                <input class="form-control" id="email" type="email" placeholder="Email" name="email" ng-model="person.email" required>
+            </div>
+
+        </div>
+
+
+        <div class="form-group">
+
+            <label for="channels" class="control-label col-sm-2">Where did you hear from us: </label>
+            <div class="col-sm-5">
+                <select name="channels" ng-model="person.channels" id="channels" class="form-control">
+                <option value="">Where did you hear about us?</option>
+                </select>
+            </div>
+
+        </div>
+
+
+        <div class="form-group">
+            <label for="newsletterOptIn" class="control-label col-sm-2">Recieve monthly newsletter</label>
+            <div class="col-sm-2">
+            <input ng-model="person.newsletterOptIn" type="checkbox" name="newsletterOptIn"
+                   id="newsletterOptIn" value="newsletterOptIn" class="checkbox-inline"/>
+            </div>
+        </div>
+
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn btn-default">
+            </div>
+
+
+</div>
+
+</form>
+
+
+
+
+</body>
+</html>

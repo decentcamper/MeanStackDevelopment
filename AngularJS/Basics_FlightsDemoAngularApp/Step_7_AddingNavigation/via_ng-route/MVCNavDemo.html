@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app="flightArrival">
+<head>
+    <title>Flight Demo App</title>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <script src="../../../../bower_components/angular-route/angular-route.js"></script>
+    <script src="js/flightApp.js"></script>
+    <script src="js/controllers/controllers.js"></script>
+
+</head>
+<body ng-controller="FlightArrivalCtrl">
+
+<!--Adding the navigation-->
+
+<div class="navbar navbar-inverse">
+    <a class="navbar-brand" href="#">{{flightPageTitle}}</a>
+</div>
+<div ng-view></div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<body ng-app="myStripDashesApp" ng-controller="myStripDashesController">
+
+<input type="text" ng-model="data.plan">
+<p>Data in the orginal form: {{data.plan}}</p>
+<p>Data with the dashes Stripped: {{data.plan | replaceDash}}</p>
+</body>
+
+<script src="../../bower_components/angular/angular.min.js"></script>
+<script src="myStripDashesApp.js"></script>
+</body>
+</html>

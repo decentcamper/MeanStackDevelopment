@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app="directiveDemoApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.min.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <style>
+        .odd { background-color: lightcoral}
+        .even { background-color: yellow}
+
+    </style>
+    <script>
+        angular.module("directiveDemoApp", [])
+                .controller("directiveDemoAppCtrl", function ($scope) {
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+                });
+    </script>
+</head>
+<body>
+<div id="todoPanel" class="panel" ng-controller="directiveDemoAppCtrl">
+    <h3 class="panel-header">To Do List</h3>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Action</th>
+            <th>Done</th>
+        </tr>
+        </thead>
+        <!-- In the code snippet below we have used the ng-class directive, which sets the class attribute of
+        an element using a data binding.
+        I use a JavaScript ternary expression to assign elements to either
+        the odd or even class based on the value of the $odd variable. -->
+        <tr ng-repeat="item in todos" ng-class="$odd ? 'odd' : 'even'">
+            <td>{{$index + 1}}</td>
+            <td ng-repeat="prop in item">{{prop}}</td>
+        </tr>
+    </table>
+    </table>
+</div>
+</body>
+</html>

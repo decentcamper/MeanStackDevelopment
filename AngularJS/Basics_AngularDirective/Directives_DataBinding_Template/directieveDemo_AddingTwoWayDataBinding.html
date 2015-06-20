@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="directiveDemoApp">
+<head>
+    <title>Directives</title>
+    <script src="../../bower_components/angular/angular.min.js"></script>
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script>
+        angular.module("directiveDemoApp", [])
+                .controller("directiveDemoAppCtrl", function ($scope) {
+                    $scope.todos = [
+                        { action: "Get groceries", complete: false },
+                        { action: "Call plumber", complete: false },
+                        { action: "Buy running shoes", complete: true },
+                        { action: "Buy flowers", complete: false },
+                        { action: "Call family", complete: false }];
+                });
+    </script>
+</head>
+<body>
+<div id="todoPanel" class="panel" ng-controller="directiveDemoAppCtrl">
+    <h3 class="panel-header">To Do List</h3>
+    <div class="well">
+        <!--This is the one way data binding..-->
+        <div>The first item is: {{todos[0].action}}</div>
+    </div>
+
+    <div class="form-group well">
+        <label for="firstItem">Set First Item:</label>
+
+        <input id='firstItem' name="firstItem" class="form-control" ng-model="todos[0].action" />
+    </div>
+</div>
+</body>
+</html>

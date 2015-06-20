@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html ng-app="problematicApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst"></script>
+    <script>
+        angular.module('problematicApp',[]).controller('problematicCtrl', function($scope){
+                    $scope.data = [
+                        {action:"Call Mom" , complete:false},
+                        {action:"Call Brother" , complete:false},
+                        {action:"Call Dad" , complete:false},
+                        {action:"Call Andy" , complete:false},
+                        {action:"Call Sheran" , complete:false},
+                        {action:"Call Someone" , complete:false}
+                    ]
+                }
+        );
+        </script>
+    <style>
+
+        .completed {background-color: #00b3ee}
+        .incomplete {background-color: coral}
+
+    </style>
+
+    <body ng-app="problematicApp" ng-controller="problematicCtrl">
+
+<pre class="prettyprint">
+<p>
+I have used a fair number of directives just to get to the point in this example where I can meaningfully apply the ng-class and ng-style directives. At the heart of this example is a simple object that I added to the controller scope:
+...
+$scope.settings = {
+Rows: "Red",
+Columns: "Green"
+};
+...
+I will use the Rows property to set the background color of the tr elements in the table and the Columns property to set the background color of the Done column. To let the user set these values, I have used the ng-repeat directive to create two sets of radio buttons, laid out using a Bootstrap grid (as described in Chapter 4). I have used the ng-class directive to set the colors for the tr elements, like this:
+...
+<tr> ng-repeat="item in todos" ng-class="settings.Rows">
+    ...
+    The ng-class directive manages the class attribute of an element. In this example, the tr elements will be assigned to a class based on the value of the Rows property, corresponding to one of the CSS styles I defined:
+    ...
+    <style>
+        tr.Red { background-color: lightcoral; }
+        tr.Green { background-color: lightgreen;}
+        tr.Blue { background-color: lightblue; }
+    </style>
+    ...
+    image Tip  You can specify multiple CSS classes using a map object, where the properties refer to the CSS classes and the values are the expressions that control whether the classes are applied. You can see this use of the ng-class directive in Chapter 8, where I used it in the SportsStore administration application.
+
+    I use the ng-style property to set CSS properties directly, rather than through a class:
+    ...
+    <td ng-style="{'background-color': settings.Columns}">{{item.complete}}</td>
+    ...
+    The ng-style directive is configured using an object whose properties correspond to the CSS properties that should be set—in this case, the background-color property, which will be set to the current value of the Columns model property.
+    image Tip  It is generally considered poor technique to apply individual CSS properties to elements. When working with static content, styles applied through classes are much easier to work with, not least because a single change to the style definition will be applied wherever the style has been used. The situation is slightly different when using the ng-style directive because the value for the properties is obtained via a data binding and the usual guidance doesn’t apply. My advice is to use classes when you can, but there is no need to avoid using the ng-style directive.
+</p>
+    </pre>
+
+    <div id="toDoPanel" class="panel">
+    <div class="checkbox well">
+        <label>
+            <input type="checkbox" ng-model="data[2].complete">
+            {{data[2].action}} is Complete....
+        </label>
+    </div>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Actions</th>
+            <th>Is Complete</th>
+        </tr>
+        </thead>
+        <tr ng-repeat="item in data" ng-class="item.complete ? 'completed' : 'incomplete' ">
+            <td>
+                {{$index +1}}
+            </td>
+            <td ng-repeat="prop in item" >
+                {{prop}}
+            </td>
+            <td>
+                    <label for="CheckBox_{{$index}}" class="label"> Mark Completed</label>
+                    <input type="checkbox" class="checkbox-inline" id="CheckBox_{{$index}}" ng-model="data[$index].complete" ng-checked="false">
+
+
+            </td>
+
+        </tr>
+
+    </table>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+   </body>

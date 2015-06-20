@@ -1,0 +1,30 @@
+
+<!--Perhaps the most important aspect of Listing 3-3 is how we use a scope object,
+an instance of which, as we discussed, was passed into our controller function by the framework.
+It really is quite fundamental to how AngularJS does much of its work.
+We can already see it being used to decouple the model from the view, but it actually does something
+a little bit more impressive than keep our code clean and modular.
+It is also a key player in the framework’s ability to keep the model and the view in sync with each other.
+The changes made to the model were immediately
+reflected in the view; we did not have to do any Document Object Model (DOM) manipulation.
+-->
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script>
+       angular.module('app',[]).controller('MyFirstCtrl',function($scope) {
+            var instructors = ['Catherine Grant', 'Monica Grant',
+                'Christopher Grant', 'Jennifer Grant'
+            ];
+            $scope.ourinstructors = instructors;
+        })
+    </script>
+</head>
+
+<body ng-controller='MyFirstCtrl'>
+<h2>Number of Instructors: {{ ourinstructors.length}}</h2>
+
+</body>
+</html>

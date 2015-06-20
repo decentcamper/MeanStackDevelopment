@@ -1,0 +1,27 @@
+/**
+ * Note that if you add a `removeListener` after adding a handler for `newListener`,
+ * you will get notified about the `removeListener` addition as well,
+ * which is why it is conventional to add the removeListener event handler first as we did in this sample.
+ */
+
+var EventEmitter = require('events').EventEmitter;
+var emitter = new EventEmitter();
+
+// Listener addition / removal notifications
+emitter.on('removeListener', function (eventName, listenerFunction) {
+    console.log(eventName, 'listener removed', listenerFunction.name);
+});
+emitter.on('newListener', function (eventName, listenerFunction) {
+    console.log(eventName, 'listener added', listenerFunction.name);
+});
+
+function a() { }
+function b() { }
+
+// Add 
+emitter.on('foo', a);
+emitter.on('foo', b);
+
+// Remove 
+emitter.removeListener('foo', a);
+emitter.removeListener('foo', b);
