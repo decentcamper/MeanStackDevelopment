@@ -3,8 +3,10 @@
 <head>
     <title>Flight Demo App</title>
     <link href="../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
-    <link href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>s
     <script src="../../bower_components/angular/angular.js"></script>
+
+
     <script>
         var flightApp = angular.module("flightArrival",[]);
 
@@ -12,12 +14,7 @@
             $scope.fligtsInfo = flightsModel;
         });
 
-        /*  I have defined a JavaScript object called model with properties that correspond to the data that was previously
-         distributed among the HTML elements.
-         The user property defines the name of the user,
-         and the items property defines an array of objects that describe my to-do items.
-         You wouldn’t usually define a model without also defining the other parts of the MVC pattern at the same time,
-         but I want to demonstrate how I build up my simple AngularJS application.*/
+
         var flightsModel = {
             flightPageTitle:"UCSC Demo Flight App",
             flightScehdule: [
@@ -33,17 +30,27 @@
                 {id:"UAL522"	,	num:"A320",	code:"San Diego Intl (KSAN)",					dep:"2015-04-18T10:49:44-05:00",		arriv:1434510496},
                 {id:"PAL104",		num:"B77W",	code:"Manila Int'l (RPLL / MNL)",				dep:"2015-04-18T13:51:44-05:00",		arriv:1434510778}]
         };
+
+
     </script>
 </head>
 <body ng-controller="FlightArrivalCtrl">
+
+
 <div class="page-header">
     <h1>
         {{fligtsInfo.flightPageTitle}}
-        <span class="label label-default label-primary">{{fligtsInfo.flightScehdule.length}}</span>
+        <span class="label label-default label-primary">{{filteredFlights.length}}</span>
     </h1>
+
+    <h3>Two way binding demo: The first flight's Code is: {{fligtsInfo.flightScehdule[0].num}}</h3>
 </div>
 <div class="panel">
-    <table class="table table-striped">
+    <div class="form-group has-feedback">
+        <input type="text" class="form-control" placeholder="Enter the Flight Information" ng-model="query"/>
+        <i class="glyphicon glyphicon-search form-control-feedback"></i>
+    </div>
+    <table class="table table-striped table-bordered">
         <thead>
         <tr>
             <th>#</th>
@@ -56,14 +63,13 @@
         </tr>
         </thead>
         <tbody>
-        <tr ng-repeat="item in fligtsInfo.flightScehdule">
-
+        <tr ui-sref-active="selected" ng-repeat="item in (filteredFlights = (fligtsInfo.flightScehdule |filter:query))">
             <td>{{$index+1}}</td>
-            <td>{{item.id}}</td>
-            <td>{{item.num}}</td>
-            <td>{{item.code}}</td>
-            <td>{{item.dep}}</td>
-            <td>{{item.arriv}}</td>
+            <td><input type="text" ng-model= item.id ></td>
+            <td><input type="text" ng-model= item.num ></td>
+            <td><input type="text" ng-model= "item.code"></td>
+            <td><input type="text" ng-model= "item.dep"></td>
+            <td><input type="text" ng-model= "item.arriv"></td>
         </tr>
 
 

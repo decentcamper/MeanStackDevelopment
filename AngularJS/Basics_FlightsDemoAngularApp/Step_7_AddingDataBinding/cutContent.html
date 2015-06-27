@@ -1,0 +1,29 @@
+<tr ui-sref-active="selected" ng-repeat="item in (filteredFlights = (fligtsInfo.flightScehdule |filter:query))">
+    <td>{{$index+1}}</td>
+    <td><input type="text" ng-disabled="!item.isBeingEdited" ng-model= item.id ></td>
+    <td><input type="text" ng-disabled="!item.isBeingEdited" ng-model= item.num ></td>
+    <td><input type="text" ng-model= "item.code" ng-disabled="!item.isBeingEdited"></td>
+    <td><input type="text" ng-model= "item.dep" ng-disabled="!item.isBeingEdited" ></td>
+    <td><input type="text" ng-model= "item.arriv" ng-disabled="!item.isBeingEdited" ></td>
+    <td><button type="button" class="btn btn-link btn" ng-click="setEditedItem(item)">
+        <span ng-if="!item.isBeingEdited" class="glyphicon glyphicon-pencil"></span>
+        <span ng-if="item.isBeingEdited"  class="glyphicon glyphicon-ok label-success"></span>
+    </button></td>
+    <td><button type="button" class="close"><span class=" glyphicon glyphicon-remove"></span> </button></td>
+
+</tr>
+
+
+<script>
+
+
+    $scope.setEditedItem = function(item){
+        if(item.isBeingEdited){
+            item.isBeingEdited = false;
+        }else{
+            item.isBeingEdited = true;
+        }
+
+
+    }
+</script>

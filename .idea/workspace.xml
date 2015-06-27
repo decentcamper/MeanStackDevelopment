@@ -1,189 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="The Checkins for the first tutorial">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MeanImage.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/gateway_banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/10errorEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/11custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/1animal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/7auth/1auth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/4connect/1basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/9ssl/1basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/1basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/4constructor/1basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/1basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/8internals/1check.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/8error/1error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/1noop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/6chain/1parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/process/1uncaught.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/7auth/2authArea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/2call.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/2chain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/9ssl/2connect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/8error/2errorHandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/process/2exit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/8internals/2inherit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/2logit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/2multiple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/4constructor/2new.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/4connect/2simpler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/3echo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/8internals/3inheritBetter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/3prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/3shared.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/process/3signals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/8error/3throwErrorHandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/8error/4onlyCalledOnError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/4prefix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/4unsubscribe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/5object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/5once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/6configurable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/6listeners.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/6override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/7instanceof.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/7listenerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/8maxEventListeners.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/9setMaxListeners.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/AngularDierctiveCustom_Base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFucntionalityThuDirective/AngularDirective_Custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-EventHandling/AngularDirective_EventHandlingDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Style/AngularDirective_ngClassStyle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/AngularDirective_ngClick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-include/ng-include_dynamic/AngularDirective_ngInclude.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-include/ng-include_static/AngularDirective_ngInclude.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/AngularDirective_ngShow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngShowHide_Problem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Style/AngularDirective_ngStyle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngVisibility.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngVisibility_Problem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularExpressions/AngularExpression.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFIlters_case.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_Number.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_date.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/BasicsAngularMVC_Lab_Solution/AngularMVC_First.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/BasicsAngularMVC_Lab_Solution/AngularMVC_Second.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_TitleCasing/CasingTitle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/server/CleanedUpServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/FirstPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Angular_HelloWorld/BasicExamples/HelloWorldAngular.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Angular_HelloWorld/BasicExamples/HelloWorldAngular_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Angular_HelloWorld/BasicExamples/HelloWorldAngular_Binding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/MVCNavDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/MVCNavDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MVCNavDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/models/Message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/NativeJSImpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_TitleCasing/NativeJSTitleCasingImpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServerWithHeaders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/ReplaceDash.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/SingletonPattern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/WithoutAngularFilters_case.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_3_includingAddPostFunc/IntialPage/add_messages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/controller/util/appConstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/4constructor/appendix log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/3readable/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/events/callBackEventCheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/10redirect/cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/9ssl/cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/controllers/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/js/controllers/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/controllers/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/5createReadable/counter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/services/dataService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/db/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatObjKeys.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatObjProp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-StartAndEnd/directieveDemo_ngRepeatStartEnd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatVariables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-switch/directieveDemo_ngSwitch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/1concepts/eventBased.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/filters/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/flightApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/js/flightApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/flightApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/flightData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightDetailsTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/partials/flightDetailsTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightDetailsTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/partials/flightListTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightListTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularForms/js/formApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/Basics_AddingAngularToThePage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/Basics_AngularModules/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/Basics_Scope/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/10redirect/key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/9ssl/key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-include/ng-include_dynamic/includeDir/listItems.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/message.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/message.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/controller/api/messageAPIApproach_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/controller/api/messageAPIApproach_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/Basics_AngularModules/app/myApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Angular/Introduction/Basics_Scope/app/myApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myAppMod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFucntionalityThuDirective/js/myAppModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/js/myAppModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_TitleCasing/myCasingTileApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/process/process_info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_Comparison/readFile/readFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/public/saturday.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/10redirect/secure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_Comparison/server/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheMessagingApp/server/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_1_intialBasicBootstrapPage/static_messages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_2_finalAngularizedPage/static_messages_angularized.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_3_includingAddPostFunc/finalPage/static_messages_final.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-include/ng-include_dynamic/includeDir/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-include/ng-include_static/includeDir/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deleted/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/oo/5nodejs/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" afterPath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" />
+    <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/ReadMe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/cutContent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularModules/controllers/multipleControllers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html" afterPath="$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
@@ -192,6 +21,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error1.js" />
@@ -207,7 +38,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
@@ -253,100 +83,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="JQueryManipulation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MVCBindingDemo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AngularDierctiveCustom_Base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/AngularDierctiveCustom_Base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myAppModule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/js/myAppModule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cutContent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/cutContent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SingletonPattern.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/SingletonPattern.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AngularMVC_Second.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/BasicsAngularMVC_Lab_Solution/AngularMVC_Second.html">
+      <file leaf-file-name="MVCDemo1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6666665">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state vertical-scroll-proportion="-16.17647">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AngularMVC_First.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/BasicsAngularMVC_Lab_Solution/AngularMVC_First.html">
+      <file leaf-file-name="myApp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.333334">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.38623595">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MVCNavDemo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MVCNavDemo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.111111">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flightDetailsTemplate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightDetailsTemplate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3333334">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flightListTemplate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightListTemplate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.074074">
-              <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/controllers/controllers.js">
+      <file leaf-file-name="myAppMod.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myAppMod.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-              <folding />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JQueryManipulation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.333333">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AngularBinding.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AngularBinding.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35454544">
+            <state vertical-scroll-proportion="0.0">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding />
             </state>
@@ -360,6 +192,7 @@
       <list>
         <option value="package_json" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="Html5" />
       </list>
     </option>
@@ -370,19 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-EventHandling/AngularDirective_EventHandlingDemo.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.2.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.3.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/js/formApp.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Angular_HelloWorld/BasicExamples/HelloWorldAngular.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/flightData.json" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/initialPage/Base.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWithModules/FlightWithmodule.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/js/myAppModule.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWIthModel/FlightAwareWithModel.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWithModules/FlightAwareWithmodule.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/PageWithModelAndController/MVCDemo3.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWithModules/MVCDemo2.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWIthModel/MVCDemo2.html" />
@@ -394,9 +214,6 @@
         <option value="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_date.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/pageWithMVC/MVCDemo4.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo4.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/partials/flightDetailsTemplate.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/MVCNavDemo.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/js/flightApp.js" />
@@ -420,7 +237,23 @@
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MVCNavDemo.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/controllers/controllers.js" />
         <option value="$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularModules/controllers/multipleControllers.html" />
         <option value="$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/assets/css/flights.css" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/assets/css/animations.css" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/cutContent.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCFilterDemo.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myApp.js" />
       </list>
     </option>
   </component>
@@ -433,8 +266,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="996" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -524,7 +357,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="Basics_FlightsDemoAngularApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Basics_FlightsDemoAngularApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Step_1_basePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Basics_AngularModules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Basics_AngularModules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,7 +435,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../WORK/SNTC2.X/BSO_US/F1837/F1837_WS/BSO_CustomerUI_3.1/webContent/rbac" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Angular/Code/eggHead/egghead-angularjs-from-scratch-getting-started-master" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -544,14 +443,15 @@
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_ToDoAngularApp/pageWithMVC" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/services" />
@@ -682,29 +582,35 @@
       <option name="project" value="LOCAL" />
       <updated>1432690945052</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="The Checkins for the first tutorial">
+      <created>1434776284203</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1434776284203</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="996" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="832" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2090708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24193548" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1687966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22389127" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39802632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22013274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2581081" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3108108" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30973452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866243" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -732,224 +638,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularFilters/WithoutAngularFilters_case.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFIlters_case.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.333334">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myAppMod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_Number.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/bower_components/angular/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7037036">
-          <caret line="18673" column="13" selection-start-line="18673" selection-start-column="13" selection-end-line="18673" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="5" column="97" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_date.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.666667">
-          <caret line="16" column="19" selection-start-line="10" selection-start-column="20" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <caret line="17" column="147" selection-start-line="17" selection-start-column="133" selection-end-line="17" selection-end-column="147" />
-          <caret line="18" column="147" selection-start-line="18" selection-start-column="133" selection-end-line="18" selection-end-column="147" />
-          <caret line="19" column="147" selection-start-line="19" selection-start-column="133" selection-end-line="19" selection-end-column="147" />
-          <caret line="20" column="147" selection-start-line="20" selection-start-column="133" selection-end-line="20" selection-end-column="147" />
-          <caret line="21" column="147" selection-start-line="21" selection-start-column="133" selection-end-line="21" selection-end-column="147" />
-          <caret line="22" column="147" selection-start-line="22" selection-start-column="133" selection-end-line="22" selection-end-column="147" />
-          <caret line="23" column="147" selection-start-line="23" selection-start-column="133" selection-end-line="23" selection-end-column="147" />
-          <caret line="24" column="147" selection-start-line="24" selection-start-column="133" selection-end-line="24" selection-end-column="147" />
-          <caret line="25" column="147" selection-start-line="25" selection-start-column="133" selection-end-line="25" selection-end-column="147" />
-          <caret line="26" column="147" selection-start-line="26" selection-start-column="133" selection-end-line="26" selection-end-column="147" />
-          <caret line="27" column="147" selection-start-line="27" selection-start-column="133" selection-end-line="27" selection-end-column="147" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/flightData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="544" column="31" selection-start-line="544" selection-start-column="31" selection-end-line="544" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/bower_components/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
-          <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightDetailsTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/MVCNavDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
-          <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/MVCNavDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/js/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/partials/flightDetailsTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ui-route/js/flightApp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -977,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -987,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3333333">
           <caret line="5" column="98" selection-start-line="5" selection-start-column="98" selection-end-line="5" selection-end-column="98" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.333334">
           <caret line="29" column="78" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,15 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.0">
           <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/SingletonPattern.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.6666665">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.333334">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,31 +764,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MVCNavDemo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.111111">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightDetailsTemplate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightListTemplate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.074074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,22 +792,219 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/controllers/multipleControllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-37.333332">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/MVCNavDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightDetailsTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0">
+          <caret line="3" column="73" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4444447">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/bower_components/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7777777">
+          <caret line="783" column="15" selection-start-line="783" selection-start-column="0" selection-end-line="783" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Style/AngularDirective_ngClassStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Style/AngularDirective_ngStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html">
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngShowHide_Problem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngVisibility.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Visibility/AngularDirective_ngVisibility_Problem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/AngularBinding.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35454544">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/JqueryComparison/JQueryManipulation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/AngularDierctiveCustom_Base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFunctionality/js/myAppModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/cutContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/SingletonPattern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.17647">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myAppMod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularModules/app/myApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38623595">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
           <folding />
         </state>
       </provider>
