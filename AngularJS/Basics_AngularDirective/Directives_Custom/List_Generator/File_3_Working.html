@@ -1,0 +1,49 @@
+<html ng-app="exampleApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../bower_components/angular/angular.js"></script>
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <script>
+        angular.module("exampleApp", [])
+                .controller("defaultCtrl", function ($scope) {
+                    $scope.products = [
+                        { name: "Apples", category: "Fruit", price: 1.20, expiry: 10 },
+                        { name: "Bananas", category: "Fruit", price: 2.42, expiry: 7 },
+                        { name: "Pears", category: "Fruit", price: 2.02, expiry: 6 }
+                    ];
+                }).directive('unorderedList', function(){
+                    return function(scope,element,attribute){
+                        var attributeValue = attribute['unorderedList'];
+                        var resultSet = scope[attributeValue];
+                        //creating the parent <UL> tag using JQueryLite..
+                        var listElem = angular.element("<ul>");
+                        element.append(listElem);
+                        if(angular.isArray(resultSet)){
+                            for(var i=0; i<resultSet.length;i++){
+                                console.log("The Values >>" + resultSet[i].name);
+                                /**
+                                 * Creating the HTML template...
+                                 */
+                                listElem.append(angular.element('<li>').text(resultSet[i].name));
+
+
+                            }
+                        }
+                    }
+                })
+
+        ;
+    </script>
+</head>
+<body ng-controller="defaultCtrl">
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Products</h3>
+    </div>
+    <div class="panel-body">
+        <div unordered-list="products"></div>
+    </div>
+</div>
+</body>
+</html>

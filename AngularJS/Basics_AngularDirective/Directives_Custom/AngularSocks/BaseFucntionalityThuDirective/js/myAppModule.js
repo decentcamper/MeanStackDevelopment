@@ -25,7 +25,7 @@ myAppModule.directive('colorList', function ($compile) {
             // add function to manage hide/show state
             $scope.showHideColors = function () {
                 $scope.isHidden = !$scope.isHidden;
-            }
+            };
 
             // add colors divs to the document
             var colorContainer = $element.find('div');
