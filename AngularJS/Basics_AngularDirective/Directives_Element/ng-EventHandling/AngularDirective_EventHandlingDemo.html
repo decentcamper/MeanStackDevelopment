@@ -43,9 +43,12 @@
 
 I have applied the ng-click directive to a set of button elements that I generate using the ng-repeat directive. The expression that I have specified will be evaluated when one of the buttons is clicked, directly updating a value in the data model, as follows:
 ...
-<button class="btn btn-info" ng-click="data.rowColor = button">
-    {{button}}
-</button>
+    <!--
+    <button class="btn btn-info" ng-click="data.rowColor = button" ng-non-bindable >
+        {{button}}
+    </button>
+</comment>
+-->
 ...
 I assign a new value to the rowColor property defined by the controller, which is used by the ng-class directive I added to the tr elements for the table. The effect is that clicking one of the buttons changes the background color of the table rows.
 image Tip  Unrelated to events, notice that when I use the ng-repeat directive to create a set of buttons in the example, I applied the directive to a span element, rather than to the button elements directly. Without the span element, there is no spacing between the buttons, which is not the effect I wanted to create.

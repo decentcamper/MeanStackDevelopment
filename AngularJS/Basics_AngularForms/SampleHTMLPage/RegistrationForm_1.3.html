@@ -6,72 +6,103 @@
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
     <script src="../../bower_components/angular/angular.js"></script>
-    <script src="../js/formApp.js"></script>
+    <script src="../js/formApp_WithSomeClassValidations.js"></script>
+    <style>
+
+        form .ng-invalid.ng-dirty { background-color: indianred; }
+        form .ng-valid.ng-dirty { background-color: lightgreen; }
+
+        input[name='email'].ng-dirty.ng-invalid {
+            color: red;
+        }
+
+        input[name='email'].ng-dirty.ng-valid {
+            color: green;
+        }
+    </style>
 </head>
 <body>
 <div ng-app="registrationApp" ng-controller="regCtrl">
+    <div ng-show="registrationForm.$pristine">Form input has not yet started</div>
+    <div ng-show="registrationForm.$dirty">Form input has started</div>
 
-    <form name="registrationForm" class="form-horizontal">
+
+    <form name="registrationForm" class="form-horizontal" ng-submit="register()" novalidate>
 
         <div class="well">
 
 
-        <div class="form-group">
-            <label for="firstName" class="control-label col-sm-2">First Name:</label>
-            <div class="col-sm-5">
-            <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
-                   required class="form-control col-sm-10">
-            </div>
-        </div>
+            <div class="form-group">
+                <label for="firstName" class="control-label col-sm-2">First Name:</label>
+                <div class="col-sm-5">
+                    <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
+                           required class="form-control col-sm-10">
+                    <span ng-show="firstNameInvalid">Please enter a value for First name</span>
+                    <br/>
 
-        <div class="form-group">
-            <label for="lastName" class="control-label col-sm-2"> Last Name: </label>
-            <div class="col-sm-5">
-                <input type="text" id="lastName" placeholder="Last Name" name="lastName" ng-model="person.lastName"
-                       required class="form-control">
+                </div>
             </div>
 
-        </div>
+            <div class="form-group">
+                <label for="lastName" class="control-label col-sm-2"> Last Name: </label>
+                <div class="col-sm-5">
+                    <input type="text" id="lastName" placeholder="Last Name" name="lastName" ng-model="person.lastName"
+                           required class="form-control">
+                    <span ng-show="lastNameInvalid">Please enter a value for Last name</span>
+                </div>
 
-        <div class="form-group">
-            <label for="email" class="col-sm-2 control-label"> Email Address: </label>
-            <div class="col-sm-5">
-                <input class="form-control" id="email" type="email" placeholder="Email" name="email" ng-model="person.email" required>
             </div>
 
-        </div>
+            <div class="form-group">
+                <label for="email" class="col-sm-2 control-label"> Email Address: </label>
+                <div class="col-sm-5">
+                    <input class="form-control" id="email" type="email" placeholder="Email" name="email" ng-model="person.email" required>
+                </div>
+                <span ng-show="emailInvalid"><br/>A valid email address is required</span>
 
-
-        <div class="form-group">
-
-            <label for="channels" class="control-label col-sm-2">Where did you hear from us: </label>
-            <div class="col-sm-5">
-                <select name="channels" id="channels" ng-model="person.channels"
-                        ng-options="obj.value as obj.label for obj in person.channels" class="form-control">
-                    <option value="">Where did you hear about us?</option>
-                </select>
             </div>
 
-        </div>
 
+            <div class="form-group">
 
-        <div class="form-group">
-            <label for="newsletterOptIn" class="control-label col-sm-2">Recieve monthly newsletter</label>
-            <div class="col-sm-2">
-            <input ng-model="person.newsletterOptIn" type="checkbox" name="newsletterOptIn"
-                   id="newsletterOptIn" value="newsletterOptIn" class="checkbox-inline"/>
+                <label for="channels" class="control-label col-sm-2">Where did you hear from us: </label>
+                <div class="col-sm-5">
+                    <select name="channels" id="channels" ng-model="person.channels"
+                            ng-options="obj.value as obj.label for obj in person.channels" class="form-control">
+                        <option value="">Where did you hear about us?</option>
+
+                    </select>
+                    <span ng-show="researchInvalid"><br/>Please tell us where you heard about us</span>
+                </div>
+
             </div>
-        </div>
+
+
+            <div class="form-group">
+                <label for="newsletterOptIn" class="control-label col-sm-2">Recieve monthly newsletter</label>
+                <div class="col-sm-2">
+                    <input ng-model="person.newsletterOptIn" type="checkbox" name="newsletterOptIn"
+                           id="newsletterOptIn" value="newsletterOptIn" class="checkbox-inline"/>
+                </div>
+            </div>
 
             <div class="form-group">
                 <input type="submit" value="Register" class="btn btn-default">
             </div>
 
 
+
+
+
+        </div>
+
+
+    </form>
+
+    <div ng-show="doShow">     Thank you for taking the time to register!
+    </div>
+
 </div>
-
-</form>
-
 
 
 

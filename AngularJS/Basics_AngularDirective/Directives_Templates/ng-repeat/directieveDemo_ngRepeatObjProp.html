@@ -10,14 +10,16 @@
                 .controller("directiveDemoAppCtrl", function ($scope) {
                     $scope.todos = [
                         { action: "Get groceries", complete: false },
-                        { action: "Call plumber", complete: false },
+                        { action: "Call plumber", complete: false , class:"Angular"},
                         { action: "Buy running shoes", complete: true },
                         { action: "Buy flowers", complete: false },
                         { action: "Call family", complete: false }];
                 });
     </script>
     <style>
-        tr > *:nth-child(3) {font-weight: bold};
+        tr > *:nth-child(3) {font-weight: bold}
+        tr > *:nth-child(2) {font-family: fantasy}
+
 
     </style>
 </head>
@@ -30,6 +32,7 @@
             <th>Index</th>
             <th>Action</th>
             <th>Done</th>
+            <th>Misc</th>
         </tr>
         </thead>
         <tbody>
@@ -40,7 +43,7 @@
         to refer to the object that is being processed from within the template:-->
         <tr ng-repeat="item in todos" ng-hide="item.complete">
             <td>{{$index + 1}}</td>
-           <td ng-repeat="prop in item">{{prop}}</td>
+           <td ng-repeat="vik in item">{{vik}}</td>
         </tr>
         </tbody>
     </table>

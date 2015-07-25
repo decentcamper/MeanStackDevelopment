@@ -6,12 +6,12 @@
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
     <script src="../../bower_components/angular/angular.js"></script>
-    <script src="../js/formApp.js"></script>
+    <script src="../js/formApp_WithSomeValidations.js"></script>
 </head>
 <body>
 <div ng-app="registrationApp" ng-controller="regCtrl">
 
-    <form name="registrationForm" class="form-horizontal">
+    <form name="registrationForm" class="form-horizontal" novalidate ng-submit="register()">
 
         <div class="well">
 
@@ -21,6 +21,9 @@
             <div class="col-sm-5">
             <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
                    required class="form-control col-sm-10">
+                <span ng-show="firstNameInvalid">Please enter a value for First name</span>
+                <br/>
+
             </div>
         </div>
 
@@ -29,6 +32,7 @@
             <div class="col-sm-5">
                 <input type="text" id="lastName" placeholder="Last Name" name="lastName" ng-model="person.lastName"
                        required class="form-control">
+                <span ng-show="lastNameInvalid">Please enter a value for Last name</span>
             </div>
 
         </div>
@@ -38,6 +42,7 @@
             <div class="col-sm-5">
                 <input class="form-control" id="email" type="email" placeholder="Email" name="email" ng-model="person.email" required>
             </div>
+            <span ng-show="emailInvalid"><br/>A valid email address is required</span>
 
         </div>
 
@@ -46,10 +51,12 @@
 
             <label for="channels" class="control-label col-sm-2">Where did you hear from us: </label>
             <div class="col-sm-5">
-                <select name="channels" id="channels" ng-model="person.channels"
+                <select name="channels" id="channels" ng-model="person.channel"
                         ng-options="obj.value as obj.label for obj in person.channels" class="form-control">
                     <option value="">Where did you hear about us?</option>
+
                 </select>
+                <!--<span ng-show="researchInvalid"><br/>Please tell us where you heard about us</span>-->
             </div>
 
         </div>
@@ -68,10 +75,14 @@
             </div>
 
 
-</div>
+
+
+
+        </div>
+
 
 </form>
-
+</div>
 
 
 
