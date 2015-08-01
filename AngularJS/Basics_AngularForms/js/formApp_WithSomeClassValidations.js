@@ -10,6 +10,8 @@ angular.module("registrationApp", [])
         $scope.emailInvalid = false;
         $scope.researchInvalid = false;
 
+        $scope.doShow = false;
+
         $scope.person.channels = [
             { value: "television", label: "Television" },
             { value: "radio", label: "Radio" },

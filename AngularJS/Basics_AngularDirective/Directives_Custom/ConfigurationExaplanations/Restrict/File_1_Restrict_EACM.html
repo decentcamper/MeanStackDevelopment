@@ -1,0 +1,55 @@
+<html ng-app="exampleApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../../bower_components/angular/angular.js"></script>
+    <link href="../../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script>
+        angular.module("exampleApp", [])
+                .controller("defaultCtrl", function ($scope) {
+                    $scope.products = [
+                        {name: "Apples", category: "Fruit", price: 1.20, expiry: 10},
+                        {name: "Bananas", category: "Fruit", price: 2.42, expiry: 7},
+                        {name: "Pears", category: "Fruit", price: 2.02, expiry: 6}
+                    ];
+                }).directive('unorderedList', function () {
+                    return {
+                        link: function (scope, element, attribute) {
+                            var attributeValue = attribute['unorderedList'];
+                            var resultSet = scope[attributeValue];
+                            var propertyExpression = attribute['listProperty'];
+                            //creating the parent <UL> tag using JQueryLite..
+                            var listElem = angular.element("<ul>");
+                            element.append(listElem);
+                            if (angular.isArray(resultSet)) {
+                                for (var i = 0; i < resultSet.length; i++) {
+                                    /**
+                                     * Creating the HTML template...
+                                     */
+                                    listElem.append(angular.element('<li>').text(scope.$eval(propertyExpression, resultSet[i])));
+
+
+                                }
+                            }
+                        },
+                        restrict: "EACM"
+
+
+                    }
+
+                })
+
+        ;
+    </script>
+</head>
+<body ng-controller="defaultCtrl">
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Products</h3>
+    </div>
+    <div class="panel-body">
+        <div unordered-list="products" list-property="price | currency"></div>
+    </div>
+</div>
+</body>
+</html>

@@ -12,7 +12,27 @@
                         { name: "Bananas", category: "Fruit", price: 2.42, expiry: 7 },
                         { name: "Pears", category: "Fruit", price: 2.02, expiry: 6 }
                     ];
+                }).directive('unorderedList', function () {
+                    return function (scope, ele, attr) {
+                        var data = scope[attr["unorderedList"]];
+                        var key = attr["key"];
+                        if (angular.isArray(data)) {
+                            var listItem = angular.element('<ul>');
+                            ele.append(listItem);
+                            for (var i = 0; i < data.length; i++) {
+                                console.log(scope.$eval(key, data[i]));
+                                var result = scope.$eval(key, data[i]);
+                                listItem.append(angular.element('<li>').text(result));
+
+                            }
+
+                        }
+
+
+                    }
                 });
+
+
     </script>
 </head>
 <body ng-controller="defaultCtrl">
@@ -21,7 +41,7 @@
         <h3>Products</h3>
     </div>
     <div class="panel-body">
-        Content will go here
+        <div unordered-list="products" key="price| currency"></div>
     </div>
 </div>
 </body>

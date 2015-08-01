@@ -1223,7 +1223,7 @@ function getNgAttribute(element, ngAttr) {
  * @param {boolean=} ngStrictDi if this attribute is present on the app element, the injector will be
  *   created in "strict-di" mode. This means that the application will fail to invoke functions which
  *   do not use explicit function annotation (and are thus unsuitable for minification), as described
- *   in {@link guide/di the Dependency Injection guide}, and useful debugging info will assist in
+ *   in {@link guide/di the Dependency Injection guide}, and useful debugging info.txt will assist in
  *   tracking down the root of these bugs.
  *
  * @description
@@ -5363,7 +5363,7 @@ function $BrowserProvider() {
  *  cache.put("another key", "another value");
  *
  *  // We've specified no options on creation
- *  expect(cache.info()).toEqual({id: 'cacheId', size: 2});
+ *  expect(cache.info.txt()).toEqual({id: 'cacheId', size: 2});
  *
  * ```
  *
@@ -5375,7 +5375,7 @@ function $BrowserProvider() {
  *
  * @returns {object} Newly created cache object with the following set of methods:
  *
- * - `{object}` `info()` — Returns id, size, and options of cache.
+ * - `{object}` `info.txt()` — Returns id, size, and options of cache.
  * - `{{*}}` `put({string} key, {*} value)` — Puts a new key-value pair into the cache and returns
  *   it.
  * - `{{*}}` `get({string} key)` — Returns cached value for `key` or undefined for cache miss.
@@ -5399,7 +5399,7 @@ function $BrowserProvider() {
          </div>
 
          <p>Cache Info</p>
-         <div ng-repeat="(key, value) in cache.info()">
+ <div ng-repeat="(key, value) in cache.info.txt()">
            <span ng-bind="key"></span>
            <span>: </span>
            <b ng-bind="value"></b>
@@ -5467,7 +5467,7 @@ function $CacheFactoryProvider() {
        *    superCache.put('key', 'value');
        *    superCache.put('another key', 'another value');
        *
-       *    expect(superCache.info()).toEqual({
+       *    expect(superCache.info.txt()).toEqual({
        *      id: 'super-cache',
        *      size: 2
        *    });
@@ -5476,7 +5476,7 @@ function $CacheFactoryProvider() {
        *    expect(superCache.get('another key')).toBeUndefined();
        *
        *    superCache.removeAll();
-       *    expect(superCache.info()).toEqual({
+       *    expect(superCache.info.txt()).toEqual({
        *      id: 'super-cache',
        *      size: 0
        *    });
@@ -5666,7 +5666,7 @@ function $CacheFactoryProvider() {
    * @description
    * Get information about all the caches that have been created
    *
-   * @returns {Object} - key-value map of `cacheId` to the result of calling `cache#info`
+   * @returns {Object} - key-value map of `cacheId` to the result of calling `cache#info.txt`
    */
     cacheFactory.info = function() {
       var info = {};
@@ -6114,7 +6114,7 @@ function $TemplateCacheProvider() {
  *   `link` property of the config object when the compile function is empty.
  *
  * * returning an object with function(s) registered via `pre` and `post` properties - allows you to
- *   control when a linking function should be called during the linking phase. See info about
+ *   control when a linking function should be called during the linking phase. See info.txt about
  *   pre-linking and post-linking functions below.
  *
  *
@@ -6193,7 +6193,7 @@ function $TemplateCacheProvider() {
  * function** to the directive's `link` function and `controller`. This transclusion function is a special
  * **linking function** that will return the compiled contents linked to a new transclusion scope.
  *
- * <div class="alert alert-info">
+ * <div class="alert alert-info.txt">
  * If you are just using {@link ngTransclude} then you don't need to worry about this function, since
  * ngTransclude will deal with it for us.
  * </div>
@@ -6206,7 +6206,7 @@ function $TemplateCacheProvider() {
  * two parameters, `function(clone, scope) { ... }`, where the `clone` is a fresh compiled copy of your transcluded
  * content and the `scope` is the newly created transclusion scope, to which the clone is bound.
  *
- * <div class="alert alert-info">
+ * <div class="alert alert-info.txt">
  * **Best Practice**: Always provide a `cloneFn` (clone attach function) when you call a translude function
  * since you then get a fresh clone of the original DOM and also have access to the new transclusion scope.
  * </div>
@@ -6232,7 +6232,7 @@ function $TemplateCacheProvider() {
  * transclusionScope.$destroy();
  * ```
  *
- * <div class="alert alert-info">
+ * <div class="alert alert-info.txt">
  * **Best Practice**: if you intend to add and remove transcluded content manually in your directive
  * (by calling the transclude function to get the DOM and and calling `element.remove()` to remove it),
  * then you are also responsible for calling `$destroy` on the transclusion scope.
@@ -6507,7 +6507,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
    *    will match as <code>ng-bind</code>), or an object map of directives where the keys are the
    *    names and the values are the factories.
    * @param {Function|Array} directiveFactory An injectable directive factory function. See
-   *    {@link guide/directive} for more info.
+   *    {@link guide/directive} for more info.txt.
    * @returns {ng.$compileProvider} Self for chaining.
    */
    this.directive = function registerDirective(name, directiveFactory) {
@@ -6857,7 +6857,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
        * @param {string} key Normalized key. (ie ngAttribute) .
        * @param {function(interpolatedValue)} fn Function that will be called whenever
                 the interpolated value of the attribute changes.
-       *        See the {@link guide/directive#text-and-attribute-bindings Directives} guide for more info.
+       *        See the {@link guide/directive#text-and-attribute-bindings Directives} guide for more info.txt.
        * @returns {function()} Returns a deregistration function for this observer.
        */
       $observe: function(key, fn) {
@@ -8808,7 +8808,7 @@ function $HttpProvider() {
    * These service factories are ordered by request, i.e. they are applied in the same order as the
    * array, on request, but reverse order, on response.
    *
-   * {@link ng.$http#interceptors Interceptors detailed info}
+   * {@link ng.$http#interceptors Interceptors detailed info.txt}
    **/
   var interceptorFactories = this.interceptors = [];
 
@@ -8889,7 +8889,7 @@ function $HttpProvider() {
      *
      * Since the returned value of calling the $http function is a `promise`, you can also use
      * the `then` method to register callbacks, and these callbacks will receive a single argument –
-     * an object representing the response. See the API signature and type info below for more
+     * an object representing the response. See the API signature and type info.txt below for more
      * details.
      *
      * A response status code between 200 and 299 is considered a success status and
@@ -11532,7 +11532,7 @@ function $LocationProvider() {
          <input type="text" ng-model="message"/>
          <button ng-click="$log.log(message)">log</button>
          <button ng-click="$log.warn(message)">warn</button>
-         <button ng-click="$log.info(message)">info</button>
+ <button ng-click="$log.info.txt(message)">info.txt</button>
          <button ng-click="$log.error(message)">error</button>
          <button ng-click="$log.debug(message)">debug</button>
        </div>
@@ -25112,7 +25112,7 @@ var ngStyleDirective = ngDirective(function(scope, element, attr) {
  * expression is evaluated. If a matching expression is not found via a when attribute then an element with the default
  * attribute is displayed.
  *
- * <div class="alert alert-info">
+ * <div class="alert alert-info.txt">
  * Be aware that the attribute values to match against cannot be expressions. They are interpreted
  * as literal string values to match against.
  * For example, **`ng-switch-when="someVal"`** will match against the string `"someVal"` not against the

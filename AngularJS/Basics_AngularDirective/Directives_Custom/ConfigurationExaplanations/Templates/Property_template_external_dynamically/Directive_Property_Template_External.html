@@ -1,0 +1,61 @@
+<html ng-app="exampleApp">
+<head>
+    <title>Directives</title>
+    <script src="../../../../../bower_components/angular/angular.js"></script>
+    <link href="../../../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script>
+        angular.module("exampleApp", [])
+                .controller("defaultCtrl", function ($scope) {
+                    $scope.products = [
+                        {name: "Apples", category: "Fruit", price: 1.20, expiry: 10},
+                        {name: "Bananas", category: "Fruit", price: 2.42, expiry: 7},
+                        {name: "Pears", category: "Fruit", price: 2.02, expiry: 6}
+                    ];
+                }).directive('unorderedList', function () {
+                    return {
+                        link: function (scope, element, attribute) {
+                            scope.data = scope[attribute["unorderedList"]];
+                        },
+                        restrict: 'A',
+                        /*The function assigned to the templateUrl property is passed a jqLite object that
+                         represents the element to which the directive has been applied and
+                         the set of attributes defined on that element.
+                         We check for a template attribute, and if it is present and set to table,
+                         We return the URL of the tableTemplate.html file.
+                         We return the URL of the itemTemplate.html file if there is no template attribute or
+                         if it has any other value. In the body section of the directives.html file,
+                         I apply the directive to two div elements, one of which has the attribute and
+                         value that I check for.*/
+
+                        templateUrl: function (elem, attrs) {
+                            return attrs["template"] == "table" ?
+                                    "./templateDir/tableTemplate.html" : "./templateDir/listTemplate.html";
+
+                            //./templateDir/listTemplate.html
+                        }
+                    }
+
+                })
+
+        ;
+    </script>
+</head>
+<body ng-controller="defaultCtrl">
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Products</h3>
+    </div>
+    <div class="panel-body">
+        <div unordered-list="products"></div>
+
+    </div>
+
+    <div class="panel-body">
+        <div unordered-list="products" template="table">
+            This is where the list will go
+        </div>
+    </div>
+</div>
+</body>
+</html>
