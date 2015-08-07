@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html ng-app="exampleApp">
+<head>
+    <title>Directive Scopes</title>
+    <script src="../../../../bower_components/angular/angular.js"></script>
+    <link href="../../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script type="text/ng-template" id="scopeTemplate">
+        <div class="panel-body">
+            <!-- change is to update the template so that it displays the value of the local property -->
+            <p>Data Value: {{local}}</p>
+        </div>
+    </script>
+    <script type="text/javascript">
+        angular.module("exampleApp", [])
+                .directive("scopeDemo", function () {
+                    return {
+                        template: function () {
+                            return angular.element(
+                                    document.querySelector("#scopeTemplate")).html();
+                        },
+                        /*
+                         Here we define one-way mapping between an attribute and a property in
+                         the directive scope
+                         */
+                        scope: {
+                            local: "@nameprop"
+                        }
+                        /*
+                         I have defined a property called local on the object assigned
+                         to the scope definition object, and this tells AngularJS that we
+                         want to define a new property in the directive scope by that name.
+                         The value of the local property is prefixed with an @ character,
+                         which specifies that the value for the local property should be
+                         obtained as a one-way binding from an attribute called nameprop.
+                         */
+                    }
+                })
+                .controller("scopeCtrl", function ($scope) {
+                    $scope.data = {name: "Adam"};
+                });
+    </script>
+</head>
+<body ng-controller="scopeCtrl">
+<div class="panel panel-default">
+    <div class="panel-body">
+        Direct Binding: <input ng-model="data.name"/>
+    </div>
+    <!--Here we define nameprop attribute on the elements to which we apply our custom directive, as follows:-->
+    <div class="panel-body" scope-demo nameprop="{{data.name}}"></div>
+    <div class="panel-body" scope-demo nameprop="{{data.name + ' >> Its Vivek'}}"></div>
+    <!-- I specify the value for the local property in the directive scope by providing an
+    AngularJS expression in the nameprop attribute.
+    In this case, I selected the data.name property,
+    but any expression can be used.-->
+</div>
+</body>
+</html>
