@@ -1,0 +1,31 @@
+<!DOCTYPE html >
+<html ng-app="myapp">
+<head>
+    <title>Angular Services</title>
+    <script src="../../bower_components/angular/angular.min.js"></script>
+    <script>
+        var module = angular.module('myapp', []);
+        /**
+         * As we did with the $window service,
+         * we simply asked for the $location service by adding it as a
+         * parameter to our controller’s anonymous function
+         */
+
+        module.controller("MyController", function ($scope, $location) {
+            $scope.url = $location.absUrl();
+            $scope.protocol = $location.protocol();
+            $scope.host = $location.host();
+            $scope.port = $location.port();
+
+        });
+    </script>
+</head>
+<body ng-controller="MyController">
+<p>The URL is: {{url}}</p>
+<ul>
+    <li>{{protocol}}</li>
+    <li>{{host}}</li>
+    <li>{{port}}</li>
+</ul>
+</body>
+</html>

@@ -2,25 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="The Checkins for the first tutorial">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_1_Default_Scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_2_Defining_Multiple_Controllers_For_Scope_Management.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_3_Individual_Scope_Directives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_4_Sharing_Scope_Directives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_5_Isolated_Scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_6_Isolated_Scope_Binding_Via_Attribute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_8_Isolated_Scope_Two_Way_Binding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile_Corrected.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile_Corrected.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template/Directive_Property_Template.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template/Directive_Property_Template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/Directive_Property_Template_External.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/Directive_Property_Template_External.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/Directive_Property_Template_External.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/Directive_Property_Template_External.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Genearator_Advanced/File_1_Complex.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Genearator_Advanced/File_1_Complex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_1_Prep.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_1_Prep.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict/File_1_Restrict_EACM.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict/File_1_Restrict_EACM.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/ComputeServer_2_With_Process_Tick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/Compute_Server_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_2_Identity_Corrected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_1_window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_2_location.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_3_document.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer_JSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_4_Provider/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/express/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_4_Provider/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nextTickDemo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nexttick.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/nextTickDemo.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile_Corrected.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile_Corrected.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_setTimeOut_.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_setTimeOut_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/interval_Implementation_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/interval_Implementation_1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/timer_Implementation_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/timer_Implementation_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/app.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" />
@@ -35,6 +52,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" />
@@ -44,8 +62,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/templateDir/listTemplate.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/templateDir/listTemplate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/listTemplate.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/listTemplate.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" />
@@ -62,7 +78,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/tableTemplate.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/tableTemplate.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" />
@@ -91,102 +106,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="File_1_Default_Scope.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_1_Default_Scope.html">
+      <file leaf-file-name="errorHanling_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.333333">
-              <caret line="23" column="85" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="85" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Basics_NodeWayOfOpeningFile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_2_Defining_Multiple_Controllers_For_Scope_Management.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_2_Defining_Multiple_Controllers_For_Scope_Management.html">
+      <file leaf-file-name="Basics_NodeWayOfOpeningFile_Corrected.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile_Corrected.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.333333">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_3_Individual_Scope_Directives.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_3_Individual_Scope_Directives.html">
+      <file leaf-file-name="Basics_setTimeOut_.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_setTimeOut_.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.0">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_4_Sharing_Scope_Directives.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_4_Sharing_Scope_Directives.html">
+      <file leaf-file-name="Compute_Server_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/Compute_Server_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_5_Isolated_Scope.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_5_Isolated_Scope.html">
+      <file leaf-file-name="ComputeServer_2_With_Process_Tick.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/ComputeServer_2_With_Process_Tick.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_6_Isolated_Scope_Binding_Via_Attribute.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_6_Isolated_Scope_Binding_Via_Attribute.html">
+      <file leaf-file-name="interval_Implementation_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/interval_Implementation_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="14.296296">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html">
+      <file leaf-file-name="nexttick.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nexttick.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.037037">
-              <caret line="50" column="68" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_8_Isolated_Scope_Two_Way_Binding.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_8_Isolated_Scope_Two_Way_Binding.html">
+      <file leaf-file-name="nextTickDemo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nextTickDemo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61242604">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Directive_Property_Template_External.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/Directive_Property_Template_External.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.814816">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File_1_Complex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Genearator_Advanced/File_1_Complex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.333334">
-              <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,57 +218,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/WithoutAngularFilters_case.html" />
-        <option value="$PROJECT_DIR$/AngularJS/AngularConcepts/SharingDataWithControllers/app.js" />
-        <option value="$PROJECT_DIR$/AngularJS/AngularConcepts/SharingDataWithControllers/base.html" />
-        <option value="$PROJECT_DIR$/AngularJS/AngularConcepts/SharingDataWithControllers/js/controllers.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/NativeJSImpl.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_TitleCasing/CasingTitle.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatObjProp.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatVariables.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.1.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-Style/AngularDirective_ngClassStyle.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Element/ng-EventHandling/AngularDirective_EventHandlingDemo.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.2.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/BaseFucntionalityThuDirective/js/myAppModule.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/PrepFile.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_3_Working.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_4_Decoupled.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_1_Prep.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/js/formApp_WithSomeValidations.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/SampleHTMLPage/RegistrationForm_1.3.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularForms/js/formApp_WithSomeClassValidations.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/AsynchronousWay_Way_to_go/setTimeOut_1.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile_Corrected.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/info.txt" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict/File_1_Restritct_EACM.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template/Directive_Property_Template.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/templateDir/listTemplate.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/Directive_Property_Template_External.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/tableTemplate.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/app.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/index.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict/File_1_Restrict_EACM.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/Directive_Property_Template_External.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_1_Default_Scope.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_2_Defining_Multiple_Controllers_For_Scope_Management.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_2_Identity_Corrected.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/nextTickDemo.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/computeServer.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/Compute_Server_1.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/SchedulingEventQueue/ComputeServer_2_With_Process_Tick.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_3_Individual_Scope_Directives.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_4_Sharing_Scope_Directives.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_5_Isolated_Scope.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_6_Isolated_Scope_Binding_Via_Attribute.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_1_Default_Scope.html" />
         <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_8_Isolated_Scope_Two_Way_Binding.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/test.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile_Corrected.js" />
+        <option value="node.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/Compute_Server_1.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Factory/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Factory/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Service/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Provider/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Factory_Management/services.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Factory_Management/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Factory_Management/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Ajax/express/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Ajax/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/Angular_Services_Ajax/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/bar.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_1_window.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_2_location.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_3_document.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/services.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/uiCode/app.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/uiCode/index.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer_JSON.js" />
       </list>
     </option>
   </component>
@@ -273,7 +282,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -338,8 +347,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -368,7 +375,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AngularJS" />
+              <option name="myItemId" value="NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tutorial_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeanStackDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tutorial_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server_Basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,19 +432,17 @@
               <option name="myItemId" value="AngularJS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Basics_FlightsDemoAngularApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../WebstormProjects" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sims-data-grid-hack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -409,34 +454,34 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Genearator_Advanced" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/uiCode" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic" />
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt" />
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularServices" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/AngualrSocks" />
       <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/services" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/filters" />
-      <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route" />
-      <recent name="$PROJECT_DIR$/AngularJS/Angular_HelloWorld/BasicExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Basics_NodeWayOfOpeningFile_Corrected.js">
-    <configuration default="false" name="error2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="error2.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error">
+  <component name="RunManager" selected="Node.js.OurFirstServer_JSON.js">
+    <configuration default="false" name="app.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir">
       <method />
     </configuration>
-    <configuration default="false" name="error3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="error3.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error">
+    <configuration default="false" name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global">
       <method />
     </configuration>
-    <configuration default="false" name="error5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="error5.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error">
+    <configuration default="false" name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/express">
       <method />
     </configuration>
-    <configuration default="false" name="Basics_NodeWayOfOpeningFile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Basics_NodeWayOfOpeningFile.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay">
+    <configuration default="false" name="OurFirstServer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="OurFirstServer.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic">
       <method />
     </configuration>
-    <configuration default="false" name="Basics_NodeWayOfOpeningFile_Corrected.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Basics_NodeWayOfOpeningFile_Corrected.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay">
+    <configuration default="false" name="OurFirstServer_JSON.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="OurFirstServer_JSON.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -482,19 +527,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.NodeJSRunConf" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.error2.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.error3.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.error5.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Basics_NodeWayOfOpeningFile.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Basics_NodeWayOfOpeningFile_Corrected.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.OurFirstServer.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.OurFirstServer_JSON.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Basics_NodeWayOfOpeningFile_Corrected.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Basics_NodeWayOfOpeningFile.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.error3.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.error5.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.error2.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.OurFirstServer_JSON.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.OurFirstServer.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -581,54 +626,48 @@
       <option name="project" value="LOCAL" />
       <updated>1438450686793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="The Checkins for the first tutorial">
+      <created>1438921638541</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1438921638541</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24119242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23857301" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277592" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22057787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39802632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24966079" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35024664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.396637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.492517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30810812" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30695772" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24119242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39802632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30810812" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31642002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4796748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -648,215 +687,47 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile_Corrected.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="req.body" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error1.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingOneWayBinding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_DataBinding_Template/directieveDemo_AddingTwoWayDataBinding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_3_includingAddPostFunc/IntialPage/add_messages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.617647">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6764705">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Controller/Communication/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Restrict/File_1_Restrict_EACM.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.147059">
-          <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_4_Decoupled.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.647059">
-          <caret line="28" column="86" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="25" selection-start-line="21" selection-start-column="23" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/templateDir/listTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/listTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/templateDir/tableTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="103" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Basics_NodeWayOfOpeningFile_Corrected.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/cutContent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightDetailsTemplate.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/addToGlobal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -864,7 +735,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_1_window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.0">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_2_location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_InBuilt/Inbuilt_3_document.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.666666">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="64" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_1_Factory/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.666667">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_3_Service/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_4_Provider/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="28" selection-start-line="6" selection-start-column="8" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_2_Factory_Management/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_4/bower_components/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9426" column="16" selection-start-line="9426" selection-start-column="16" selection-end-line="9426" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.0">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/1noop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/2logit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -872,23 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/MVCNavDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/flightApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="37" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightListTemplate.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/5middleware/3echo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -896,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/partials/flightDetailsTemplate.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/6chain/1parse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -904,7 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/controllers/controllers.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/7auth/1auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -912,7 +887,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/filters/filters.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/7auth/2authArea.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -920,7 +895,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/js/services/dataService.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_4/Introduction_MessageApp/Step_1_intialBasicBootstrapPage/static_messages.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -928,107 +903,221 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_8_SharingBetweenControllers/via_ui-route/MVCNavDemo.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_Comparison/readFile/readFile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.481482">
-          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template/Directive_Property_Template.html">
+    <entry file="file://$PROJECT_DIR$/TheMessagingApp/db/db.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external/Directive_Property_Template_External.html">
+    <entry file="file://$PROJECT_DIR$/TheMessagingApp/models/Message.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.0">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Templates/Property_template_external_dynamically/Directive_Property_Template_External.html">
+    <entry file="file://$PROJECT_DIR$/TheMessagingApp/server/CleanedUpServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.814816">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Genearator_Advanced/File_1_Complex.html">
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.333334">
-          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/4connect/2simpler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_1_Default_Scope.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/4connect/1basic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
-          <caret line="23" column="85" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="85" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_2_Defining_Multiple_Controllers_For_Scope_Management.html">
+    <entry file="file://$PROJECT_DIR$/TheMessagingApp/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="40" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_3_Individual_Scope_Directives.html">
+    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/express/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v0.12.7-src/core-modules-sources/lib/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4556212">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_4_Sharing_Scope_Directives.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServerWithHeaders.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_5_Isolated_Scope.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/OurFirstServer_JSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_6_Isolated_Scope_Binding_Via_Attribute.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="14.296296">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_7_Isolated_Scope_Binding_Via_Attribute_Reuse.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.037037">
-          <caret line="50" column="68" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/ConfigurationExaplanations/Scope/File_8_Isolated_Scope_Two_Way_Binding.html">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_2_Identity_Corrected.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61242604">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile_Corrected.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_setTimeOut_.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/Compute_Server_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/ComputeServer_2_With_Process_Tick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/interval_Implementation_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nexttick.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/timer_Implementation_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/SchedulingWork/nextTickDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

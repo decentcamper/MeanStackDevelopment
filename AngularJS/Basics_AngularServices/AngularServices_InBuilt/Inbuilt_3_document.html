@@ -1,0 +1,26 @@
+<!DOCTYPE html >
+<html ng-app="myapp">
+<head>
+    <title>Angular Services: Mean Class Tutorial</title>
+    <script src="../../bower_components/angular/angular.min.js"></script>
+    <script>
+        var module = angular.module('myapp', []);
+
+
+        /**
+         * Yet again, we ask for this service by specifying it as a parameter on our controller method’s anonymous function.
+         * Next, we use it to get the value of the page’s title element, and we set a property on the $scope, docTitle, on this value.
+         * Angular generally discourages accessing the DOM directly, as it operates very
+         * much on the principle that a declarative approach is much better.
+         * There are times when you need this direct access, however, so it is good to have services such as this one available.
+         */
+        module.controller("MyController", function ($scope, $document) {
+            $scope.docTitle = $document[0].title;
+
+        });
+    </script>
+</head>
+<body ng-controller="MyController">
+<p>The page title is: {{docTitle}}</p>
+</body>
+</html>

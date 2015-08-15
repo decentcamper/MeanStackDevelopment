@@ -1,0 +1,36 @@
+<!DOCTYPE html >
+<html ng-app="myapp">
+<head>
+    <title>Angular Services</title>
+    <script src="../../bower_components/angular/angular.min.js"></script>
+    <script>
+
+        var module = angular.module('myapp', []);
+
+        /**
+         * An important point here is that we didn’t actually instantiate this service ourselves.
+         * The Angular dependency management sub-subsystem took care of that for us behind the scenes.
+         * This technique is an aspect of something known as dependency injection,
+         * a relatively involved topic that is beyond the scope of this session.
+         * For now, though, it is enough to know that asking for a service in this way,
+         * as opposed to you declaring and instantiating it yourself within your controller code,
+         * is a major benefit. That being said, you will get a little more insight into
+         * the mechanism at play here when we create our own service in the next section.
+         */
+        module.controller("MyController", function ($scope, $window) {
+            $scope.winWidth = $window.innerWidth;
+        });
+
+
+        /**
+         * The idea of the window object as a service might seem a little odd at first, but it makes perfect sense.
+         * It contains a set of related functions and properties that we want to be readily available across our application.
+         * That’s a service! Additionally, because it is a service, we don’t have to be too concerned about how
+         * it goes about its work or how we might work with it in other contexts
+         */
+    </script>
+</head>
+<body ng-controller="MyController">
+<p>Window width: {{winWidth}}px</p>
+</body>
+</html>

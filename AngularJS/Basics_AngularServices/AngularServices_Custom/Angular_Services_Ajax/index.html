@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <title>Mean Stack Development</title>
+    <link rel="stylesheet" href="../../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body ng-app="app" ng-controller="AppCtrl">
+<input type="text" ng-model="person.firstName"/>
+<input type="text" ng-model="person.lastName"/>
+<input type="button" value="Add Person" ng-click="addPerson()"/>
+<ul>
+    <li ng-repeat="person in people">
+        {{person.firstName}} {{person.lastName}}
+    </li>
+</ul>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+</body>
+</html>

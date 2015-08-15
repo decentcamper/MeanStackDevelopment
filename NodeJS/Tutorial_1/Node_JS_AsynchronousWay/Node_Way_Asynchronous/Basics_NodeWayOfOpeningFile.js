@@ -5,9 +5,9 @@
 var fs = require('fs');                 // this is new, see explanation
 
 var file = null;
-var buf = new Buffer(100000);
+var buffer = new Buffer(100000);
 fs.open(
-    'info.txt', 'r',
+    '../info.txt', 'r',
     function (handle) {
         file = handle;
     }
