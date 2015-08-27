@@ -1,0 +1,112 @@
+{
+  "KLM282-1434464448-ed-0000:0": {
+    "ident": "KLM282",
+    "timestamp": "1434510381",
+    "longitude": "-52.90000",
+    "latitude": "57.26667",
+    "groundspeed": "520",
+    "altitude": "350",
+    "updateType": "TZ",
+    "heading": "58",
+    "arrivalTime": "0"
+  },
+  "AAL1799-1434319620-schedule-0009": {
+    "ident": "AAL1799",
+    "timestamp": "1434510428",
+    "longitude": "-122.16556",
+    "latitude": "37.55278",
+    "groundspeed": "197",
+    "altitude": "25",
+    "updateType": "TZ",
+    "heading": "283",
+    "arrivalTime": "0"
+  },
+  "ACA739-1434321300-schedule-0107": {
+    "ident": "ACA739",
+    "timestamp": "1434510450",
+    "longitude": "-97.52333",
+    "latitude": "41.90306",
+    "groundspeed": "407",
+    "altitude": "320",
+    "updateType": "TZ",
+    "heading": "245",
+    "arrivalTime": "0"
+  },
+  "SWA50-1434330600-schedule-0045": {
+    "ident": "SWA50",
+    "timestamp": "1434510476",
+    "longitude": "-108.21139",
+    "latitude": "36.45833",
+    "groundspeed": "432",
+    "altitude": "380",
+    "updateType": "TZ",
+    "heading": "292",
+    "arrivalTime": "0"
+  },
+  "AAL163-1434326400-schedule-0161": {
+    "ident": "AAL163",
+    "timestamp": "1434510744",
+    "longitude": "-91.56696",
+    "latitude": "45.82864",
+    "groundspeed": "394",
+    "altitude": "300",
+    "updateType": "TA",
+    "heading": "276",
+    "arrivalTime": "0"
+  },
+  "KLM606-1434315000-schedule-0106": {
+    "ident": "KLM606",
+    "timestamp": "1434510780",
+    "longitude": "-41.89293",
+    "latitude": "66.54009",
+    "groundspeed": "",
+    "altitude": "0",
+    "updateType": "TP",
+    "heading": "99",
+    "arrivalTime": "0"
+  },
+  "UAL502-1434260085-airline-0356": {
+    "ident": "UAL502",
+    "timestamp": "1434510441",
+    "longitude": "-87.42389",
+    "latitude": "42.42445",
+    "groundspeed": "540",
+    "altitude": "390",
+    "updateType": "TZ",
+    "heading": "89",
+    "arrivalTime": "0"
+  },
+  "SAS936-1434260057-airline-0140": {
+    "ident": "SAS936",
+    "timestamp": "1434510444",
+    "longitude": "-104.02000",
+    "latitude": "47.71056",
+    "groundspeed": "514",
+    "altitude": "350",
+    "updateType": "TZ",
+    "heading": "59",
+    "arrivalTime": "0"
+  },
+  "UAL340-1434284263-airline-0198": {
+    "ident": "UAL340",
+    "timestamp": "1434510453",
+    "longitude": "-90.00555",
+    "latitude": "40.27222",
+    "groundspeed": "453",
+    "altitude": "340",
+    "updateType": "TZ",
+    "heading": "275",
+    "arrivalTime": "0"
+  },
+  "UAL816-1434284118-airline-0085": {
+    "ident": "UAL816",
+    "timestamp": "1434510460",
+    "longitude": "-118.37167",
+    "latitude": "34.01472",
+    "groundspeed": "255",
+    "altitude": "70",
+    "updateType": "TZ",
+    "heading": "86",
+    "arrivalTime": "0"
+  }
+}

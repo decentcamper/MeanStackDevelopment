@@ -1,0 +1,49 @@
+,
+"EJA944-1434495973-100-0":{
+"ident": "EJA944",
+"timestamp": "1434510481",
+"longitude": "-113.04166",
+"latitude": "42.07695",
+"groundspeed": "531",
+"altitude": "430",
+"updateType": "TZ",
+"heading": "65",
+"arrivalTime": "0"
+}
+,
+"UAL870-1434345506-airline-0030":{
+"ident": "UAL870",
+"timestamp": "1434510780",
+"longitude": "159.62547",
+"latitude": "-31.17262",
+"groundspeed": "456",
+"altitude": "290",
+"updateType": "TP",
+"heading": "52",
+"arrivalTime": "0"
+}
+,
+"UAL869-1434314700-schedule-0134":{
+"ident": "UAL869",
+"timestamp": "1434510780",
+"longitude": "-151.16434",
+"latitude": "52.16279",
+"groundspeed": "507",
+"altitude": "330",
+"updateType": "TP",
+"heading": "282",
+"arrivalTime": "0"
+}
+,
+"UAL871-1434316200-schedule-0052":{
+"ident": "UAL871",
+"timestamp": "1434510435",
+"longitude": "178.13333",
+"latitude": "53.05000",
+"groundspeed": "540",
+"altitude": "340",
+"updateType": "TZ",
+"heading": "270",
+"arrivalTime": "0"
+}
+,

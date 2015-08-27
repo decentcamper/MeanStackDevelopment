@@ -14,24 +14,22 @@ console.log('Server running at http://127.0.0.1:3000/');
 
 
  var http2 = require('http');*/
-
-
 var http = require('http');
 
-var server = http.createServer(function (req, res) {
-    myHandler(req, res);
-
-
-});
-
-
-var myHandler = function (req, res) {
-    console.log(req.url);
-    res.write('Hi guys how are you doing today');
+var handler = function (req, res) {
+    console.log(req.headers);
+    res.write("How is this Ssturday Morning treating you guys....");
     res.end();
-
 
 };
 
-server.listen('3000');
-console.log('Server running at port 3000');
+var server = http.createServer(handler);
+
+server.listen(3000);
+
+console.log('Now we are talking');
+
+
+
+
+
