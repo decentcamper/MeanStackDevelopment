@@ -3,7 +3,10 @@
  */
 
 
-var app = angular.module('myApp', []);
+var app = angular.module('myApp', [
+    'ngRoute',
+    'controllersModule'
+]);
 
 app.config(function ($provide) {
     $provide.provider('game', function () {

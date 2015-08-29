@@ -22,11 +22,7 @@ app.factory('dataManagement', function ($http) {
 
                 })
         }
-
-
     }
-
-
 });
 app.controller("AppCtrl", function ($scope, dataManagement) {
 
