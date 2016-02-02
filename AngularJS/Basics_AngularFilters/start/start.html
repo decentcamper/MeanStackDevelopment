@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Listing 4-2</title>
+    <script src="../../../AngularBoxOffice/angular-seed/app/bower_components/angular/angular.min.js"></script>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script>
+        angular.module('classLabFilterApp', []).
+                controller('classLabFilterCtrl', function ($scope) {
+                })
+    </script>
+
+</head>
+<body ng-app="classLabFilterApp" ng-controller="classLabFilterCtrl">
+
+<div class="container">
+    <div class="row">
+        <label for="firstName" class="control-label col-lg-2">First Name:</label>
+        <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="firstName"
+               class="col-lg-2">
+        <span>Changed Value : {{firstName}} </span>
+
+    </div>
+
+
+</div>
+
+
+</body>
+</html>
