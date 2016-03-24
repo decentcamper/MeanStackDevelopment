@@ -8,7 +8,7 @@ var fs = require('fs');
  * Opening the file......
  */
 fs.open(
-    '../info.txt', 'r',
+    '/info.txt', 'r',
     function (err, handle) {
         if (err) {
             console.log("ERROR: " + err.code

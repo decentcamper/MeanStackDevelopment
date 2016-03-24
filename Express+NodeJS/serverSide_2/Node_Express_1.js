@@ -22,7 +22,7 @@ var path = require("path"),
 fs = require('fs');
 
 var app = express();
-app.get('/flights/carriers', handlerModule.flightCarrierListHandler);
+app.get('/flights/carriers', handlerModule.flightCarrierxListHandler);
 app.get('/flights/carriers/:carrierName', handlerModule.flightListHandler);
 
 app.listen(3000);

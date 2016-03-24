@@ -23,7 +23,7 @@ function handle_incoming_request(req, res) {
 }
 
 function serve_static_file(file, res) {
-    var rs = fs.createReadStream(file);
+    var rs = fs.createReadStream("./static/"+file);
     var ct = content_type_for_path(file);
     res.writeHead(200, {"Content-Type": ct});
 
@@ -41,6 +41,7 @@ function serve_static_file(file, res) {
                      */
                     res.write(d);
                 else if (typeof d == 'object' && d instanceof Buffer)
+               /* console.log(d.toString('utf8'));*/
                     res.write(d.toString('utf8'));
             }
         }
@@ -61,7 +62,7 @@ function serve_static_file(file, res) {
 }
 
 function content_type_for_path(file) {
-    return "text/html";
+    return "text/html; charset=UTF-8";
 }
 
 var s = http.createServer(handle_incoming_request);

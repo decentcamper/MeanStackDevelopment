@@ -6,6 +6,7 @@ function FileObject(filename) {
     this.filename = filename;
     this.file_exists = function (callback) {
         console.log("About to open: " + this.filename);
+
         fs.open(this.filename, 'r', function (err, handle) {
             if (err) {
                 console.log("Can't open: " + this.filename);
@@ -15,7 +16,7 @@ function FileObject(filename) {
             fs.close(handle, function () {
             });
             callback(null, true);
-        });
+        }.bind(this))
     };
 }
 

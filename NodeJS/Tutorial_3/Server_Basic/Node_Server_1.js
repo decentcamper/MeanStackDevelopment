@@ -18,7 +18,7 @@ var http = require('http');
 
 var handler = function (req, res) {
     console.log(req.headers);
-    res.write("How is this Ssturday Morning treating you guys....");
+    res.write("How is this Monday  Evening treating you guys....");
     res.end();
 
 };

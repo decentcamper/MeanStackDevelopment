@@ -1,119 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="The Checkins for the first tutorial">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_1_Basic/Connect_1_Basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_1_Basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_BodyParser/Express_Modules_3_BodyParsers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_4_Loading_Params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_1_Static_Basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_2_Static_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_1/Node_Express_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_3/Node_Express_3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/DeltaAirlines/OAK-AMS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/DeltaAirlines/OAK-KAR.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/DeltaAirlines/OAK-MUN.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/DeltaAirlines/OAK-TOK.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/SouthWest/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/VirginAtlantic/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/BritishAirways/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/SouthWest/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/VirginAtlantic/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/BritishAirways/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/SouthWest/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/VirginAtlantic/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/BritishAirways/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/SouthWest/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/VirginAtlantic/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriersDetails.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/controllers/controllersModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/public/file1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/public/file2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/handlers/handlerModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_3/handlers/handlerModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/handlers/handlerModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/myFiles/info.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/public/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/public/printcookie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/services/servicesModule.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/4connect/1basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/3echo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deleted/test.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/10redirect/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/cert.pem" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/10redirect/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/key.pem" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/10redirect/secure.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/secure.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/4connect/2simpler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_1_Basic/Connect_1_Basic_Simpler.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/1noop.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/2logit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_2_Middleware_Logging.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/4prefix.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_Middleware_Mounting_Prefix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/5object.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_4_Middleware_Object.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/5middleware/6configurable.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_5_Middleware_Configurable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/6chain/1parse.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/7auth/1auth.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/7auth/2authArea.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/8error/1error.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/1error.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/8error/2errorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/2errorHandler.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/8error/3throwErrorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/3throwErrorHandler.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/8error/4onlyCalledOnError.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/4onlyCalledOnError.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/9ssl/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/1basic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/9ssl/2connect.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/2connect.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/9ssl/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/cert.pem" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/9ssl/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/key.pem" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/10errorEvent.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/11custom.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/11custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/1basic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/2multiple.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/2multiple.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/3shared.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/3shared.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/4unsubscribe.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/4unsubscribe.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/5once.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/5once.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/6listeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/6listeners.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/7listenerevents.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/7listenerevents.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/8maxEventListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/8maxEventListeners.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/9setMaxListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/9setMaxListeners.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/events/callBackEventCheck.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/callBackEventCheck.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/1animal.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/1animal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/2call.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/2call.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/3prototype.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/3prototype.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/4constructor/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/1basic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/4constructor/2new.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/2new.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/4constructor/appendix log.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/appendix log.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/5nodejs/util.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/5nodejs/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/6override.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/6override.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/7instanceof.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/7instanceof.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/8internals/1check.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/1check.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/8internals/2inherit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/2inherit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/oo/8internals/3inheritBetter.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/3inheritBetter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/process/1uncaught.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/1uncaught.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/process/2exit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/2exit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/process/3signals.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/3signals.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/modules/process/process_info.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/process_info.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
+    <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="Checkins for the express related stuff">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/ABO/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/ABO/js/myApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/Step_1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/Step_1/js/myBoxOfficeApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/js/services/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/PageWithModelAndController/MVCDemo3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_1_Crud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_2_Update_Doc_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_2_Update_Doc_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_3_ODM_1_Connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_3_ODM_2_CRUD.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-AMS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-KAR.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-MUN.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-TOK.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/events/EvenEmitterIntro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_4_Modified_AnotherAttempt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/js/BOController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/js/BOService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/partials/movie-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/Node_Server_6_Multiple_Requests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-AMS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-KAR.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-MUN.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-TOK.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-AMSTERDAM.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-DELHI.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-PARIS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-TOKYO.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparison.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" afterPath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/index.html" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.html" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.js" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/start/start.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/start/start.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/app.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/index.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/services.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/services.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_5_Middleware_Configurable.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_5_Middleware_Configurable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/cert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/key.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/secure.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/secure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/1error.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/1error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/2errorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/2errorHandler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/3throwErrorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/3throwErrorHandler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/4onlyCalledOnError.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/4onlyCalledOnError.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/1basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/2connect.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/2connect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/cert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/key.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/11custom.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/11custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/1basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/2multiple.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/2multiple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/3shared.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/3shared.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/4unsubscribe.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/4unsubscribe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/5once.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/5once.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/6listeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/6listeners.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/7listenerevents.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/7listenerevents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/8maxEventListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/8maxEventListeners.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/9setMaxListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/9setMaxListeners.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/1animal.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/1animal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/2call.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/2call.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/3prototype.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/3prototype.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/1basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/2new.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/2new.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/appendix log.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/appendix log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/5nodejs/util.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/5nodejs/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/6override.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/6override.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/7instanceof.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/7instanceof.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/1check.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/1check.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/2inherit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/2inherit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/3inheritBetter.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/3inheritBetter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/1uncaught.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/1uncaught.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/2exit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/2exit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/3signals.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/3signals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" />
@@ -123,21 +149,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype3.js" />
@@ -145,18 +157,91 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/revealingModule.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/revealingModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/delete.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/delete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/deleteSync.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/deleteSync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/dir_base_ext.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/dir_base_ext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/join.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/join.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/log.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/clearInterval.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/clearInterval.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setInterval.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setInterval.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setTimeout.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setTimeout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_2_JSON.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_2_JSON.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/main.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/1concepts/eventBased.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/1concepts/eventBased.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/1basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/1basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/2chain.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/2chain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/3readable/basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/3readable/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/5createReadable/counter.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/5createReadable/counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/logger.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/logger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/message.txt" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/message.txt" />
     </list>
     <ignored path="MeanStackDevelopment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,107 +261,103 @@
     <favorites_list name="MeanStackDevelopment" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Express_2_Simpler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js">
+      <file leaf-file-name="Express_Modules_3_BodyParsers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_BodyParser/Express_Modules_3_BodyParsers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllersModule.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/controllers/controllersModule.js">
+      <file leaf-file-name="Express_Request_Mount_URL.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/controllers/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="47" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="47" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/app.js">
+      <file leaf-file-name="Express_Routing_1_Verbs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64761907">
+            <state relative-caret-position="340">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carriersDetails.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriersDetails.html">
+      <file leaf-file-name="Express_Routing_3_Params.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="41" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/app.js">
+      <file leaf-file-name="Node_1_Server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_1_Server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="19" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carriers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriers.html">
+      <file leaf-file-name="Node_2_Server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_2_Server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flightListTemplate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html">
+      <file leaf-file-name="10errorEvent.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.076923">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="72" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servicesModule.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/services/servicesModule.js">
+      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Express+NodeJS/node_modules/async/lib/async.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="118" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="5627">
+              <caret line="337" column="13" selection-start-line="337" selection-start-column="13" selection-end-line="337" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node_Server_5_Corrected.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_5_Corrected.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -293,77 +374,80 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_3_ReadFile.js" />
+        <option value="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/index.html" />
+        <option value="$PROJECT_DIR$/AngularBoxOffice/Step_1/js/myBoxOfficeApp.js" />
+        <option value="$PROJECT_DIR$/AngularBoxOffice/Step_1/index.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/events/EvenEmitterIntro.js" />
+        <option value="$PROJECT_DIR$/AngularBoxOffice/ABO/js/myApp.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/final/js/myFlightApp.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/final/MVCDemo1.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/final/MVCDemo4.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/ng-RepeatVsJSComparison/compare.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/ng-RepeatVsJSComparison/logic.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/Finish/finish.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/start/start.html" />
+        <option value="$PROJECT_DIR$/comparison.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" />
+        <option value="$PROJECT_DIR$/AngularBoxOffice/ABO/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/finish/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/finish/services.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/finish/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/start/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/start/index.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/start/services.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" />
+        <option value="$PROJECT_DIR$/test1.html" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/services.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/app.js" />
+        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/index.html" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/Node_Way_Asynchronous/Basics_NodeWayOfOpeningFile.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_1.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_2_JSON.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" />
         <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_4_Modified.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_4_Corrected.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_5_Corrected.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/readFile/simple_strea,.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/readFile/simple_stream.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_Static_File.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/static/index.html/index.html" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/static/index.html" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Static_File.js" />
-        <option value="$PROJECT_DIR$/NodeJS/InClass/carriers/BritishAirways/SFO-AMSTERDAM.json" />
-        <option value="$PROJECT_DIR$/NodeJS/InClass/Node_JS_1.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/BritishAirways/SFO-DELHI.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/BritishAirways/SFO-PARIS.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/DeltaAirlines/SFO-AMSTERDAM.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/DeltaAirlines/OAK-MUN.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/BritishAirways/SFO-TOKYO.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/DeltaAirlines/OAK-KAR.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/myFiles/DeltaAirlines/OAK-TOK.json" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_6_Multiple_Requests.js" />
-        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Reading_Req_Params.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_4_Modified_AnotherAttempt.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
+        <option value="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" />
         <option value="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_1_Basic/Connect_1_Basic.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_1_Basic/Connect_1_Basic_Simpler.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_2_Middleware/Connect_2_2_Middleware_Logging.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_2_Middleware/Connect_2_Middleware_Mounting_Prefix.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_2_Middleware/Connect_2_4_Middleware_Object.js" />
-        <option value="$PROJECT_DIR$/Express/Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" />
-        <option value="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/public/main.js" />
-        <option value="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/public/index.html" />
-        <option value="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_Static_Basic.js" />
-        <option value="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_2_Static_2.js" />
-        <option value="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_BodyParser/Express_Modules_3_BodyParsers.js" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/package.json" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/Node_Server_6_Multiple_Requests.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_1/Node_Express_1.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_1/handlers/handlerModule.js" />
+        <option value="$PROJECT_DIR$/NodeInClass_ToBeDeleted/package.json" />
+        <option value="$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_1_Server.js" />
+        <option value="fs.js" />
         <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_3/handlers/handlerModule.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_3/Node_Express_3.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/app.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/index.html" />
-        <option value="$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/index.html" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriers.html" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/services/servicesModule.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriersDetails.html" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/controllers/controllersModule.js" />
-        <option value="$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/app.js" />
+        <option value="$PROJECT_DIR$/Express+NodeJS/notToBeCheckedIn/express1.js" />
+        <option value="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" />
+        <option value="$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_2_Server.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="832" />
+    <option name="width" value="1920" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -405,7 +489,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -426,10 +510,10 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -448,104 +532,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Express+NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeanStackDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Work/SNTC/F3010_BackEnd/CustomerUI_PI2/webContent/devicesNotInSegmentUI" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.buildTools.gulp.node_interpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="js.buildTools.grunt.node_interpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="131" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="148" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="946" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="144" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="148" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="942" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Express+NodeJS" />
-      <recent name="$PROJECT_DIR$/Express+NodeJS/serverSide_3/public" />
-      <recent name="$PROJECT_DIR$/Express+NodeJS/serverSide_2" />
-      <recent name="$PROJECT_DIR$/Express/2_Express/Express_Routing" />
-      <recent name="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Request_Object" />
+      <recent name="$PROJECT_DIR$/NodeInClass_ToBeDeleted" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/static" />
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/finish" />
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularSerives_Challenge/start" />
+      <recent name="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic" />
+      <recent name="$PROJECT_DIR$/NodeJS/Tutorial_3" />
+      <recent name="$PROJECT_DIR$/MongoDB" />
       <recent name="$PROJECT_DIR$/Express+NodeJS/serverSide_1" />
       <recent name="$PROJECT_DIR$/Express/2_Express/Express_Basics" />
-      <recent name="$PROJECT_DIR$/Express/2_Express" />
-      <recent name="$PROJECT_DIR$/Express/Connect/Connect_3_Middleware_Chaining" />
-      <recent name="$PROJECT_DIR$/Express/Connect" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Node_Express_4.js">
-    <configuration default="false" name="Express_Routing_4_Loading_Params.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Express_Routing_4_Loading_Params.js" working-dir="$PROJECT_DIR$/Express/2_Express/Express_Routing">
+  <component name="RunManager" selected="Node.js.Node_2_Server.js">
+    <configuration default="false" name="Connect_2_2_Middleware_Logging.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Connect_2_2_Middleware_Logging.js" working-dir="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware">
       <method />
     </configuration>
-    <configuration default="false" name="Node_Server_6_Multiple_Requests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" working-dir="$PROJECT_DIR$/Express+NodeJS">
+    <configuration default="false" name="express1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="express1.js" working-dir="$PROJECT_DIR$/Express+NodeJS/notToBeCheckedIn">
       <method />
     </configuration>
-    <configuration default="false" name="handlerModule.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="handlerModule.js" working-dir="$PROJECT_DIR$/Express+NodeJS/serverSide_3/handlers">
+    <configuration default="false" name="Express_Routing_1_Verbs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Express_Routing_1_Verbs.js" working-dir="$PROJECT_DIR$/Express/2_Express/Express_Routing">
       <method />
     </configuration>
-    <configuration default="false" name="Node_Express_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Node_Express_3.js" working-dir="$PROJECT_DIR$/Express+NodeJS/serverSide_3">
+    <configuration default="false" name="Express_Routing_3_Params.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Express_Routing_3_Params.js" working-dir="$PROJECT_DIR$/Express/2_Express/Express_Routing">
       <method />
     </configuration>
-    <configuration default="false" name="Node_Express_4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Node_Express_4.js" working-dir="$PROJECT_DIR$/Express+NodeJS/serverSide_4">
+    <configuration default="false" name="Node_2_Server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Node_2_Server.js" working-dir="$PROJECT_DIR$/NodeInClass_ToBeDeleted">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -554,7 +627,16 @@
       <option name="filePath" />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <pass-parent-env-vars value="true" />
+      <envs />
+      <force value="false" />
+      <verbose value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>/usr/local/bin/node</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -563,28 +645,65 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>/usr/local/bin/node</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
     <configuration default="false" name="NodeJSRunConf" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="File_1_Identity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="File_1_Identity.js" working-dir="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis">
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Node.js.NodeJSRunConf" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Express_Routing_4_Loading_Params.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Node_Server_6_Multiple_Requests.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.handlerModule.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Node_Express_3.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Node_Express_4.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.File_1_Identity.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Connect_2_2_Middleware_Logging.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.express1.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Express_Routing_1_Verbs.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Express_Routing_3_Params.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.Node_2_Server.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Node_Express_4.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Node_Express_3.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.handlerModule.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Node_Server_6_Multiple_Requests.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Express_Routing_4_Loading_Params.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Node_2_Server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Express_Routing_3_Params.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Express_Routing_1_Verbs.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.express1.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Connect_2_2_Middleware_Logging.js" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -593,100 +712,158 @@
       <changelist id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="" />
       <created>1432233055510</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1432233055510</updated>
+      <workItem from="1458544892965" duration="580000" />
+      <workItem from="1458577516993" duration="12560000" />
+      <workItem from="1458613395421" duration="6616000" />
+      <workItem from="1458846985070" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="The Checkins for the first tutorial">
       <created>1432441254240</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1432441254240</updated>
     </task>
     <task id="LOCAL-00002" summary="The Checkins for the first tutorial">
       <created>1432441296344</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1432441296344</updated>
     </task>
     <task id="LOCAL-00003" summary="The Checkins for the first tutorial">
       <created>1432590640940</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1432590640940</updated>
     </task>
     <task id="LOCAL-00004" summary="The Checkins for the first tutorial">
       <created>1432690921071</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1432690921071</updated>
     </task>
     <task id="LOCAL-00005" summary="The Checkins for the first tutorial">
       <created>1432690945052</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1432690945052</updated>
     </task>
     <task id="LOCAL-00006" summary="The Checkins for the first tutorial">
       <created>1434776284203</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1434776284203</updated>
     </task>
     <task id="LOCAL-00007" summary="The Checkins for the first tutorial">
       <created>1435424232567</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1435424232567</updated>
     </task>
     <task id="LOCAL-00008" summary="The Checkins for the first tutorial">
       <created>1435424598187</created>
       <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1435424598187</updated>
     </task>
     <task id="LOCAL-00009" summary="The Checkins for the first tutorial">
       <created>1437793182487</created>
       <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1437793182487</updated>
     </task>
     <task id="LOCAL-00010" summary="The Checkins for the first tutorial">
       <created>1437805526367</created>
       <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1437805526367</updated>
     </task>
     <task id="LOCAL-00011" summary="The Checkins for the first tutorial">
       <created>1438312663507</created>
       <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
       <updated>1438312663507</updated>
     </task>
     <task id="LOCAL-00012" summary="The Checkins for the first tutorial">
       <created>1438450686793</created>
       <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
       <updated>1438450686793</updated>
     </task>
     <task id="LOCAL-00013" summary="The Checkins for the first tutorial">
       <created>1438921638541</created>
       <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
       <updated>1438921638541</updated>
     </task>
     <task id="LOCAL-00014" summary="The Checkins for the first tutorial">
       <created>1439656739118</created>
       <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1439656739118</updated>
     </task>
     <task id="LOCAL-00015" summary="Code changes for the NODE http server..">
       <created>1440650119952</created>
       <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1440650119952</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Checkins for the express related stuff">
+      <created>1440839928985</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1440839928985</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Checkins for the express related stuff">
+      <created>1454305581338</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1454305581338</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Checkins for the filter related stuff">
+      <created>1454380632151</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1454380632151</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Checkins for the services example....">
+      <created>1454975086351</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1454975086351</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Checkins for the services related stuff">
+      <created>1454975135358</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1454975135358</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,29 +875,50 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="832" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1011" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23783784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32671082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32702702" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29598308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28243244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2527027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30695772" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27804106" sideWeight="0.70127505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36565098" sideWeight="0.52360815" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21762785" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38955387" sideWeight="0.64436406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1857001" sideWeight="0.7216349" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2635659" sideWeight="0.29872495" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32702702" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.47639182" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36565098" sideWeight="0.52360815" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2173913" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21974148" sideWeight="0.7216349" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39012927" sideWeight="0.64436406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2635659" sideWeight="0.29872495" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16997617" sideWeight="0.70127505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32702702" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.47639182" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -736,7 +934,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The Checkins for the first tutorial" />
     <MESSAGE value="Code changes for the NODE http server.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code changes for the NODE http server.." />
+    <MESSAGE value="Checkins for the express related stuff" />
+    <MESSAGE value="Checkins for the filter related stuff" />
+    <MESSAGE value="Checkins for the services example...." />
+    <MESSAGE value="Checkins for the services related stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkins for the services related stuff" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -749,147 +951,360 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Reading_Req_Params.js</url>
-          <line>87</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Reading_Req_Params.js</url>
-          <line>144</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Reading_Req_Params.js</url>
-          <line>147</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_7_Reading_Req_Params.js</url>
           <line>159</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_2_Middleware_Logging.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="48" />
+          <url>file://$PROJECT_DIR$/MongoDB/MongoDB_4.js</url>
+          <line>80</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js</url>
-          <line>6</line>
-          <option name="timeStamp" value="51" />
+          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_2_Server.js</url>
+          <line>47</line>
+          <option name="timeStamp" value="136" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="55" />
+      <option name="time" value="137" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="req.body" />
-        <watch expression="successResp" />
-        <watch expression="err" />
-        <watch expression="req.url.substr(0, 7)" />
-        <watch expression="(req.url.substr(0, 8)" />
-        <watch expression="req.url.substr(0, 8)" />
-        <watch expression="err" />
-        <watch expression="album_name" />
-        <watch expression="flightCarrierName" />
-        <watch expression="str" />
+        <watch expression="req.writeHead()" language="JavaScript" />
+        <watch expression="this.only_directories" />
+        <watch expression="this.data" language="JavaScript" />
+        <watch expression="this" />
+        <watch expression="this.filename" />
         <watch expression="d" />
-        <watch expression="req.url.substring(9)" />
-        <watch expression="err" />
-        <watch expression="stat" />
-        <watch expression="carrier_name" />
-        <watch expression="req.url.length- 10" />
-        <watch expression="req.url" />
-        <watch expression="core_url.substr(0, 9)" />
+        <watch expression="data[index]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/package.json">
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_1_Static_Basic.js">
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Static/Modules_1_2_Static_2.js">
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/controllers/controllersModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/services/servicesModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/handlers/handlerModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/public/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/public/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/node_modules/serve-index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_4_Loading_Params.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/node_modules/async/dist/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/node_modules/async/lib/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="357" column="15" selection-start-line="357" selection-start-column="15" selection-end-line="357" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_5/Tutorial_5_Proxying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/handlers/handlerModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/Node_Express_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriersDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_2/handlers/handlerModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_1/Node_Express_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_1_Basic/Connect_1_Basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_2_Middleware_Logging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/node+Express/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/notToBeCheckedIn/express1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_1_Basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/node_modules/serve-index/public/directory.html">
+    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_BodyParser/Express_Modules_3_BodyParsers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="204">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -897,7 +1312,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="340">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -905,320 +1320,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="102">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_4_Loading_Params.js">
+    <entry file="file://$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_5_Corrected.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="680">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/myFiles/info.txt">
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_1_Server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="476">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express+NodeJS/node_modules/async/lib/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5627">
+          <caret line="337" column="13" selection-start-line="337" selection-start-column="13" selection-end-line="337" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeInClass_ToBeDeleted/Node_2_Server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_1_Basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_1/Node_Express_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_2/handlers/handlerModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/handlers/handlerModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="118" column="31" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/Node_Express_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.615385">
-          <caret line="44" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatVariables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.461538">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeatObjKeys.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.5">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/JavaScriptPattern_Singleton/SingletonPattern.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_1_basePage/MVCDemo1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_2_pageWithModules/MVCDemo2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="57.96154">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_3_pageWIthModel/MVCDemo3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="20.692308">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_4_pageWithModelAndController/MVCDemo4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.115385">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_5_pageWithMVC/MVCDemo5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="32.692307">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_6_pageWithFilters/MVCFilterDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="43.576923">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingDataBinding/MVCBindingDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="37.03846">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightDetailsTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/flightApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="2" selection-start-line="27" selection-start-column="9" selection-end-line="40" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/MVCNavDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/partials/flightListTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.076923">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/Step_7_AddingNavigation/via_ng-route/js/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/services/servicesModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="118" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_3/public/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="19" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/controllers/controllersModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/templates/carriersDetails.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Express+NodeJS/serverSide_4/public/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64761907">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>

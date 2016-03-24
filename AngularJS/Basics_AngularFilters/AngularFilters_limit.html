@@ -15,18 +15,14 @@
                         plan: 'super-basic-plan',
 
                         // Last 12 months of data usage
-                        monthlyUsageHistory: [123.659855,
-                            89.645222,
+                        monthlyUsageHistory: [
+                           89.645222,
                             97.235644,
                             129.555555,
                             188.699855,
                             65.652545,
-                            123.659855,
-                            89.645222,
-                            97.235644,
-                            129.555555,
-                            188.699855,
-                            65.652545]
+                            123.659855
+                           ]
                     };
 
 
@@ -48,7 +44,7 @@ What we actually did was loop through a totally new array;
 an array which was produced by the limitTo filter.-->
 
 <ul>
-    <li ng-repeat="gigabytes in data.monthlyUsageHistory | limitTo:5">
+    <li ng-repeat="gigabytes in data.monthlyUsageHistory | limitTo:10">
         {{ gigabytes | number:2}}
     </li>
 </ul>

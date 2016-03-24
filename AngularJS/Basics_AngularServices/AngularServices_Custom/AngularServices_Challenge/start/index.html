@@ -15,17 +15,17 @@
         <h3 class="caption">The Title</h3>
 
         <div class="container">
-            <div class="row">
+            <div class="row" ng-repeat="movie in movies">
                 <div class="col-xs-3 col-md-3 col-lg-3">
-                    {{baseTMDBURL}}
-                    <!--<img width='190' ng-src="{{baseURL+movie.poster_path}}" alt="{{movie.original_title}}">-->
+
+                   <img width='190' ng-src="{{baseTMDBURL+movie.poster_path}}" alt="{{movie.original_title}}">
                 </div>
                 <div class="col-xs-6 col-md-6 col-lg-6">
-                    <p>OverView</p>
+                    <p>OverView : {{movie.overview}}</p>
 
-                    <p>ReleaseDate:Some Release Date</p>
+                    <p>ReleaseDate:{{movie.release_date}}</p>
 
-                    <p>RatedR:Fetch the movie </p>
+                    <p>RatedR:{{movie.adult}} </p>
                 </div>
             </div>
         </div>

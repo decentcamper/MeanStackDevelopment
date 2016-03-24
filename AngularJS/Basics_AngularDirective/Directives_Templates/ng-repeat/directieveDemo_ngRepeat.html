@@ -36,6 +36,7 @@
         the name by which you want
         to refer to the object that is being processed from within the template:-->
         <tr ng-repeat="item in todos">
+            <td>{{$index + 1}}</td>
             <td>{{item.action}}</td>
             <td>{{item.complete}}</td>
         </tr>

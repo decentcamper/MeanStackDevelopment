@@ -10,7 +10,7 @@ function send404(response) {
 var server = http.createServer(function (req, res) {
     if (req.method == 'GET' && req.url == '/') {
         res.writeHead(200, { 'content-type': 'text/html' });
-        fs.createReadStream('./public/index.html').pipe(res);
+        fs.createReadStream('./public/saturday.html').pipe(res);
     }
     else {
         send404(res);

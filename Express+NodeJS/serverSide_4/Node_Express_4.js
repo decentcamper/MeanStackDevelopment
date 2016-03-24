@@ -14,6 +14,7 @@ var app = express();
 
 /**
  * Making it to serve the files from the public directory..
+ *
  */
 app.use(express.static(__dirname + '/public'));
 

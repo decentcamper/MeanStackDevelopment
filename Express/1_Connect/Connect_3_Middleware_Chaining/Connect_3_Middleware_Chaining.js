@@ -43,18 +43,20 @@ function parseJSON(req, res, next) {
     }
 }
 
+
+function mySecondMiddleware(req, res) {
+    if (req.body) {
+        res.end('JSON parsed!, value of foo: '+ req.body.foo);
+    }
+    else {
+        res.end('no JSON detected!');
+    }
+}
+
 var connect = require('connect');
 
 connect()
     .use(parseJSON)
-
-    .use(function (req, res) {
-        if (req.body) {
-            res.end('JSON parsed!, value of foo: '+ req.body.foo);
-        }
-        else {
-            res.end('no JSON detected!');
-        }
-    })
+    .use(mySecondMiddleware)
     .listen(3000);
 

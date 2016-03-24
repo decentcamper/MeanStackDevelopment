@@ -6,6 +6,7 @@ angular.module('servicesModule', [])
     .factory('movieService', function (urlToBeUsed, $http) {
         var movieService = {};
         movieService.getMovies = function () {
+            return $http.get(urlToBeUsed);
             //Include the logic to fetch the movies here.....
         };
         movieService.getURLToHit = function () {

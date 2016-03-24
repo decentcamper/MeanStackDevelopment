@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
+          crossorigin="anonymous">
+</head>
+<body ng-app="myBoxOfficeApp" ng-controller="myBoxOfficeController">
+<script src="js/myApp.js"></script>
+<div ng-repeat="movie in movies">
+    <div class="img-thumbnail">
+        <h3 class="caption">{{movie.original_title}}</h3>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-3 col-md-3 col-lg-3">
+                    <img width='190' ng-src="{{baseURL+movie.poster_path}}" alt="{{movie.original_title}}">
+                </div>
+                <div class="col-xs-6 col-md-6 col-lg-6">
+                    <p>{{movie.overview}}</p>
+
+                    <p>ReleaseDate:{{movie.release_date}}</p>
+
+                    <p>RatedR:{{movie.adult}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+</body>
+</html>

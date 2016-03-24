@@ -38,10 +38,10 @@ var successResp = {
 
 var handler = function (req, res) {
     console.log(req.headers);
-    res.writeHead(404, {"Content-Type": "application/json"});
-    //successResp.data.message = "I hope we are all good;";
+   // res.writeHead(200, {"Content-Type": "application/json"});
+    successResp.data.message = "I hope we are all good;";
 
-    res.end(JSON.stringify(errorResp) + "\n");
+    res.end(JSON.stringify(successResp) + "\n");
 
 };
 

@@ -12,17 +12,37 @@
                         { name: "Bananas", category: "Fruit", price: 2.42, expiry: 7 },
                         { name: "Pears", category: "Fruit", price: 2.02, expiry: 6 }
                     ];
+
+                    $scope.products1 = [
+                        { name: "Apples Red", category: "Fruit", price: 1.20, expiry: 10 },
+                        { name: "Bananas Yellow", category: "Fruit", price: 2.42, expiry: 7 },
+                        { name: "Pears Green", category: "Fruit", price: 2.02, expiry: 6 }
+                    ];
+
+                    $scope.chooseModels = true;
+                    $scope.feedData = function(){
+                        return $scope.chooseModels ? $scope.products1: $scope.products;
+
+                    }
+
+
                 }).directive('unorderedList', function(){
                     return function(scope,element,attribute){
+                        console.log(scope);
+                        console.log(element);
                         var attributeValue = attribute['unorderedList'];
-                        var resultSet = scope[attributeValue];
+                        //var resultSet = scope[attributeValue];
+                        var resultSet = JSON.parse(attributeValue);
                         if(angular.isArray(resultSet)){
                             for(var i=0; i<resultSet.length;i++){
                                 console.log("The Values >>" + resultSet[i].name);
 
                             }
                         }
+
+
                     }
+
                 })
 
         ;
@@ -34,7 +54,17 @@
         <h3>Products</h3>
     </div>
     <div class="panel-body">
-        <div unordered-list="products"></div>
+        <div class="well">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" ng-model="chooseModels">
+                    Use the Scope Property : Products1
+                </label>
+            </div>
+        </div>
+
+        <div unordered-list={{feedData()}}></div>
+        <!--<div ng-model={{products}}></div>-->
     </div>
 </div>
 </body>

@@ -1,0 +1,112 @@
+{
+  "KAL24-1434314400-schedule-0006": {
+    "ident": "KAL24",
+    "timestamp": "1434510484",
+    "longitude": "169.53334",
+    "latitude": "52.88334",
+    "groundspeed": "550",
+    "altitude": "340",
+    "updateType": "TZ",
+    "heading": "239",
+    "arrivalTime": "0"
+  },
+  "AAL1393-1434326100-schedule-0109": {
+    "ident": "AAL1393",
+    "timestamp": "1434510765",
+    "longitude": "-110.88454",
+    "latitude": "37.54678",
+    "groundspeed": "435",
+    "altitude": "360",
+    "updateType": "TA",
+    "heading": "285",
+    "arrivalTime": "0"
+  },
+  "VRD936-1434328800-schedule-0012": {
+    "ident": "VRD936",
+    "timestamp": "1434510795",
+    "longitude": "-118.21659",
+    "latitude": "34.03519",
+    "groundspeed": "206",
+    "altitude": "31",
+    "updateType": "TA",
+    "heading": "83",
+    "arrivalTime": "0"
+  },
+  "UAL724-1434260605-airline-0132": {
+    "ident": "UAL724",
+    "timestamp": "1434510798",
+    "longitude": "-124.25580",
+    "latitude": "36.59890",
+    "groundspeed": "490",
+    "altitude": "301",
+    "updateType": "TA",
+    "heading": "59",
+    "arrivalTime": "0"
+  },
+  "ANA7-1434309600-schedule-0114": {
+    "ident": "ANA7",
+    "timestamp": "1434510780",
+    "longitude": "152.44978",
+    "latitude": "44.71220",
+    "groundspeed": "480",
+    "altitude": "350",
+    "updateType": "TP",
+    "heading": "228",
+    "arrivalTime": "0"
+  },
+  "DAL241-1434324600-schedule-0096": {
+    "ident": "DAL241",
+    "timestamp": "1434510765",
+    "longitude": "-111.43053",
+    "latitude": "38.04172",
+    "groundspeed": "446",
+    "altitude": "340",
+    "updateType": "TA",
+    "heading": "276",
+    "arrivalTime": "0"
+  },
+  "AAR211-1434310800-schedule-0066": {
+    "ident": "AAR211",
+    "timestamp": "1434510780",
+    "longitude": "156.36157",
+    "latitude": "47.08664",
+    "groundspeed": "480",
+    "altitude": "370",
+    "updateType": "TP",
+    "heading": "231",
+    "arrivalTime": "0"
+  },
+  "DAL952-1434331740-schedule-0003": {
+    "ident": "DAL952",
+    "timestamp": "1434510457",
+    "longitude": "-108.91695",
+    "latitude": "42.44222",
+    "groundspeed": "496",
+    "altitude": "350",
+    "updateType": "TZ",
+    "heading": "73",
+    "arrivalTime": "0"
+  },
+  "SKW6338-1434259575-airline-0019": {
+    "ident": "SKW6338",
+    "timestamp": "1434510472",
+    "longitude": "-118.89972",
+    "latitude": "33.91722",
+    "groundspeed": "367",
+    "altitude": "283",
+    "updateType": "TZ",
+    "heading": "310",
+    "arrivalTime": "0"
+  },
+  "UAL331-1434260650-airline-0107": {
+    "ident": "UAL331",
+    "timestamp": "1434510482",
+    "longitude": "-114.27333",
+    "latitude": "38.57000",
+    "groundspeed": "498",
+    "altitude": "350",
+    "updateType": "TZ",
+    "heading": "89",
+    "arrivalTime": "0"
+  }
+}
