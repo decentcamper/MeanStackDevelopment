@@ -1,0 +1,14 @@
+{
+  "name": "module_dir_content",
+  "version": "1.0.0",
+  "description": "Module Directory Content",
+  "main": "Modules_2_1_DirContents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve-index": "^1.7.2"
+  }
+}

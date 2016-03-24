@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html ng-app="flightArrival">
+<head>
+    <title>Flight Demo App</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+
+    <script>
+        var flightApp = angular.module("flightArrival", []);
+
+        flightApp.controller("FlightArrivalCtrl", function ($scope) {
+            $scope.fligtsInfo = flightsModel;
+        });
+
+
+        /*  We have defined a JavaScript object called model with properties that correspond to the data that was previously
+         distributed among the HTML elements.
+         The user property defines the name of the user,
+         and the items property defines an array of objects that describe my to-do items.
+         You wouldn’t usually define a model without also defining the other parts of the MVC pattern at the same time,
+         but I want to demonstrate how I build up my simple AngularJS application.*/
+        var flightsModel = [
+            {id: "JBU915", num: "A321", code: "John F Kennedy Intl (KJFK)", dep: "04:55p EDT", arriv: "08:19p PDT"},
+            {id: "UAL1731", num: "B739", code: "Houston Bush Int'ctl (KIAH)", dep: "06:48p CDT", arriv: "08:17p PDT"},
+            {id: "DAL2773", num: "B712", code: "Los Angeles Intl (KLAX)", dep: "07:16p PDT", arriv: "08:15p PDT"},
+            {
+                id: "EVA28",
+                num: "B77W",
+                code: "Taiwan Taoyuan Int'l (RCTP / TPE)",
+                dep: "12:21a CST",
+                arriv: "08:13p PDT"
+            },
+            {id: "AMF1150", num: "B190", code: "Reno/Tahoe Intl (KRNO)", dep: "07:17p PDT", arriv: "08:13p PDT"},
+            {id: "AAL1799", num: "A321", code: "Charlotte/Douglas Intl (KCLT)", dep: "06:24p EDT", arriv: "08:11p PDT"},
+            {
+                id: "CAL4",
+                num: "B744",
+                code: "Taiwan Taoyuan Int'l (RCTP / TPE)",
+                dep: "12:16a CST",
+                arriv: "08:10p PDT"
+            },
+            {
+                id: "UAL1497",
+                num: "B739",
+                code: "Minneapolis/St Paul Intl (KMSP)",
+                dep: "06:30p CDT",
+                arriv: "08:14p PDT"
+            },
+            {id: "DAL445", num: "B752", code: "John F Kennedy Intl (KJFK)", dep: "04:49p EDT", arriv: "08:10p PDT"},
+            {id: "UAL522", num: "A320", code: "San Diego Intl (KSAN)", dep: "07:01p PDT", arriv: "08:10p PDT"},
+            {id: "PAL104", num: "B77W", code: "Manila Int'l (RPLL / MNL)", dep: "04:34a PHT", arriv: "08:02p PDT"}]
+    </script>
+</head>
+<body ng-controller="FlightArrivalCtrl">
+<div class="page-header">
+    <h1>UCSC Demo Flight App</h1>
+</div>
+<div class="panel">
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Ident</th>
+            <th>Type</th>
+            <th>From</th>
+            <th>Depart</th>
+            <th>Arrive</th>
+
+        </tr>
+        </thead>
+        <tbody>
+
+        <tr ng-repeat="flight in fligtsInfo">
+            <td> {{$index +1}}
+            <td>{{flight.id}}</td>
+            <td>{{flight.num}}</td>
+            <td>{{flight.code}}</td>
+            <td>{{flight.dep}}</td>
+            <td>{{flight.arriv}}</td>
+        </tr>
+
+
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

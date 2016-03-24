@@ -1,0 +1,21 @@
+{
+  "name": "FlightDemoApp",
+  "version": "0.1",
+  "homepage": "https://github.com/decentcamper/MeanStackDevelopment",
+  "authors": [
+    "viveksh2 <er.viveksharma@gmail.com>"
+  ],
+  "description": "1.1",
+  "main": "Flight.js",
+  "keywords": [
+    "TestApp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
