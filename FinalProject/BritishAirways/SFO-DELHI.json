@@ -1,0 +1,101 @@
+{
+  "UAL1608-1434284150-airline-0067": {
+    "ident": "UAL1608",
+    "timestamp": "1434510446",
+    "longitude": "-105.07861",
+    "latitude": "38.31167",
+    "groundspeed": "420",
+    "altitude": "360",
+    "updateType": "TZ",
+    "heading": "274",
+    "arrivalTime": "0"
+  },
+  "UAL1284-1434284214-airline-0010": {
+    "ident": "UAL1284",
+    "timestamp": "1434510744",
+    "longitude": "-116.43275",
+    "latitude": "38.12796",
+    "groundspeed": "418",
+    "altitude": "360",
+    "updateType": "TA",
+    "heading": "265",
+    "arrivalTime": "0"
+  },
+  "UAL394-1434284183-airline-0275": {
+    "ident": "UAL394",
+    "timestamp": "1434510464",
+    "longitude": "-120.12055",
+    "latitude": "37.02945",
+    "groundspeed": "526",
+    "altitude": "280",
+    "updateType": "TZ",
+    "heading": "83",
+    "arrivalTime": "0"
+  },
+  "UAL1681-1434284019-airline-0017": {
+    "ident": "UAL1681",
+    "timestamp": "1434510748",
+    "longitude": "-113.90917",
+    "latitude": "38.21631",
+    "groundspeed": "417",
+    "altitude": "360",
+    "updateType": "TA",
+    "heading": "275",
+    "arrivalTime": "0"
+  },
+  "VRD77-1434322500-schedule-0084": {
+    "ident": "VRD77",
+    "timestamp": "1434510767",
+    "longitude": "-107.96670",
+    "latitude": "38.37450",
+    "groundspeed": "439",
+    "altitude": "360",
+    "updateType": "TA",
+    "heading": "271",
+    "arrivalTime": "0"
+  },
+  "SKW6412-1434259575-airline-0109": {
+    "ident": "SKW6412",
+    "timestamp": "1434510897",
+    "longitude": "-122.56130",
+    "latitude": "37.79381",
+    "groundspeed": "340",
+    "altitude": "124",
+    "updateType": "TA",
+    "heading": "140",
+    "arrivalTime": "0"
+  },
+  "VRD222-1434327300-schedule-0092": {
+    "ident": "VRD222",
+    "timestamp": "1434510780",
+    "longitude": "-99.02999",
+    "latitude": "30.84779",
+    "groundspeed": "424",
+    "altitude": "255",
+    "updateType": "TA",
+    "heading": "103",
+    "arrivalTime": "0"
+  },
+  "UAL8-1434346177-airline-0154": {
+    "ident": "UAL8",
+    "timestamp": "1434510780",
+    "longitude": "107.97712",
+    "latitude": "35.14437",
+    "groundspeed": "",
+    "altitude": "0",
+    "updateType": "TP",
+    "heading": "38",
+    "arrivalTime": "0"
+  },
+  "SWA4840-1434330300-schedule-0104": {
+    "ident": "SWA4840",
+    "timestamp": "1434510440",
+    "longitude": "-121.91722",
+    "latitude": "36.81361",
+    "groundspeed": "345",
+    "altitude": "158",
+    "updateType": "TZ",
+    "heading": "341",
+    "arrivalTime": "0"
+  }
+}

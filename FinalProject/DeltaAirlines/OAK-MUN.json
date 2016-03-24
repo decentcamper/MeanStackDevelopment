@@ -1,0 +1,112 @@
+{
+  "UAL1456-1434284085-airline-0160": {
+    "ident": "UAL1456",
+    "timestamp": "1434510438",
+    "longitude": "-98.21889",
+    "latitude": "42.42417",
+    "groundspeed": "502",
+    "altitude": "370",
+    "updateType": "TZ",
+    "heading": "104",
+    "arrivalTime": "0"
+  },
+  "VRD941-1434331800-schedule-0096": {
+    "ident": "VRD941",
+    "timestamp": "1434511017",
+    "longitude": "-122.25120",
+    "latitude": "37.56894",
+    "groundspeed": "154",
+    "altitude": "21",
+    "updateType": "TA",
+    "heading": "296",
+    "arrivalTime": "0"
+  },
+  "CPZ5728-1434326700-schedule-0031": {
+    "ident": "CPZ5728",
+    "timestamp": "1434510428",
+    "longitude": "-122.80639",
+    "latitude": "38.35305",
+    "groundspeed": "428",
+    "altitude": "238",
+    "updateType": "TZ",
+    "heading": "167",
+    "arrivalTime": "0"
+  },
+  "JBU416-1434315300-schedule-0071": {
+    "ident": "JBU416",
+    "timestamp": "1434510778",
+    "longitude": "-73.95465",
+    "latitude": "40.50504",
+    "groundspeed": "323",
+    "altitude": "125",
+    "updateType": "TA",
+    "heading": "163",
+    "arrivalTime": "0"
+  },
+  "VRD90-1434318300-schedule-0142": {
+    "ident": "VRD90",
+    "timestamp": "1434510767",
+    "longitude": "-77.78261",
+    "latitude": "38.72269",
+    "groundspeed": "255",
+    "altitude": "29",
+    "updateType": "TA",
+    "heading": "74",
+    "arrivalTime": "0"
+  },
+  "AAL475-1434326400-schedule-0097": {
+    "ident": "AAL475",
+    "timestamp": "1434510778",
+    "longitude": "-105.20810",
+    "latitude": "38.35676",
+    "groundspeed": "441",
+    "altitude": "340",
+    "updateType": "TA",
+    "heading": "268",
+    "arrivalTime": "0"
+  },
+  "UAL489-1434260504-airline-0178": {
+    "ident": "UAL489",
+    "timestamp": "1434510438",
+    "longitude": "-94.27028",
+    "latitude": "43.53305",
+    "groundspeed": "526",
+    "altitude": "350",
+    "updateType": "TZ",
+    "heading": "99",
+    "arrivalTime": "0"
+  },
+  "AAL719-1434319200-schedule-0168": {
+    "ident": "AAL719",
+    "timestamp": "1434510775",
+    "longitude": "-118.10230",
+    "latitude": "37.98001",
+    "groundspeed": "421",
+    "altitude": "340",
+    "updateType": "TA",
+    "heading": "263",
+    "arrivalTime": "0"
+  },
+  "AAL557-1434334200-schedule-0026": {
+    "ident": "AAL557",
+    "timestamp": "1434510786",
+    "longitude": "-80.91244",
+    "latitude": "35.55502",
+    "groundspeed": "284",
+    "altitude": "90",
+    "updateType": "TA",
+    "heading": "7",
+    "arrivalTime": "0"
+  },
+  "DAL2040-1434322800-schedule-0198": {
+    "ident": "DAL2040",
+    "timestamp": "1434510781",
+    "longitude": "-81.48104",
+    "latitude": "42.24065",
+    "groundspeed": "519",
+    "altitude": "390",
+    "updateType": "TA",
+    "heading": "97",
+    "arrivalTime": "0"
+  }
+}
