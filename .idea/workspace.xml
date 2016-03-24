@@ -2,246 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd65679c-d934-42dd-8a1b-112bb0a7485e" name="Default" comment="Checkins for the express related stuff">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/ABO/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/ABO/js/myApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/Step_1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/Step_1/js/myBoxOfficeApp.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/js/services/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/Basics_FlightsDemoAngularApp/PageWithModelAndController/MVCDemo3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_1_Crud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_2_Update_Doc_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_2_Update_Doc_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_3_ODM_1_Connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_3_ODM_2_CRUD.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/MongoDB_4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/BritishAirways/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-AMS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-KAR.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-MUN.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/DeltaAirlines/OAK-TOK.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/SouthWest/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/VirginAtlantic/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeInClass_ToBeDeleted/myFiles/info.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/events/EvenEmitterIntro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_4_Modified_AnotherAttempt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/js/BOController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/js/BOService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UCSCBoxOffice/app/partials/movie-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/Node_Server_6_Multiple_Requests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/BritishAirways/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-AMS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-KAR.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-MUN.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/DeltaAirlines/OAK-TOK.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/SouthWest/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-AMSTERDAM.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-DELHI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-PARIS.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/VirginAtlantic/SFO-TOKYO.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/myFiles/info.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparison.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" afterPath="$PROJECT_DIR$/.idea/MeanStackDevelopment.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/index.html" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.html" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.js" afterPath="$PROJECT_DIR$/AngularBoxOffice/angular-seed/app/view1/view1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularCustomFilters/Filter_ReplaceDash/myStripDashesApp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_2_Intermediate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Custom/List_Generator/File_5_WithExpression.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularDirective/Directives_Templates/ng-repeat/directieveDemo_ngRepeat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/AngularFilters_limit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/start/start.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularFilters/start/start.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/app.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/index.html" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/services.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/AngularServices_Challenge/start/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" afterPath="$PROJECT_DIR$/AngularJS/Basics_AngularServices/AngularServices_Custom/Angular_Services_Ajax/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_2/Node_Express_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js" afterPath="$PROJECT_DIR$/Express+NodeJS/serverSide_4/Node_Express_4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_1_Middleware_NOP.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_5_Middleware_Configurable.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_2_Middleware/Connect_2_5_Middleware_Configurable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/cert.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/key.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/secure.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/10redirect/secure.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/1auth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/7auth/2authArea.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/1error.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/1error.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/2errorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/2errorHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/3throwErrorHandler.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/3throwErrorHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/4onlyCalledOnError.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/8error/4onlyCalledOnError.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/1basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/2connect.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/2connect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/cert.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/cert.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/key.pem" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/9ssl/key.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" afterPath="$PROJECT_DIR$/Express/1_Connect/Connect_3_Middleware_Chaining/Connect_3_Middleware_Chaining.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/10errorEvent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/11custom.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/11custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/1basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/2multiple.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/2multiple.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/3shared.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/3shared.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/4unsubscribe.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/4unsubscribe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/5once.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/5once.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/6listeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/6listeners.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/7listenerevents.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/7listenerevents.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/8maxEventListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/8maxEventListeners.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/events/9setMaxListeners.js" afterPath="$PROJECT_DIR$/Express/1_Connect/events/9setMaxListeners.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/1animal.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/1animal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/2call.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/2call.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/3prototype.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/3prototype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/1basic.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/1basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/2new.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/2new.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/appendix log.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/4constructor/appendix log.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/5nodejs/util.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/5nodejs/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/6override.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/6override.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/7instanceof.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/7instanceof.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/1check.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/1check.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/2inherit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/2inherit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/3inheritBetter.js" afterPath="$PROJECT_DIR$/Express/1_Connect/oo/8internals/3inheritBetter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/1uncaught.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/1uncaught.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/2exit.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/2exit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/1_Connect/process/3signals.js" afterPath="$PROJECT_DIR$/Express/1_Connect/process/3signals.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Basics/Express_2_Simpler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_1_Cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_2_ShowingCookies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Cookies/Express_Modules_4_3_Parsed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Modules/Express_Modules_Dir_Content/Modules_2_1_DirContents.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Request_Object/Express_Request_Mount_URL.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_1_Verbs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_2_Route_Object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js" afterPath="$PROJECT_DIR$/Express/2_Express/Express_Routing/Express_Routing_3_Params.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/anon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/closure2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionBody.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/functionReturn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/higherOrder2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/functions/ief3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/default2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/equal2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/error/error5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/prototypes/prototype4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/reference2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/revealingModule.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/revealingModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/this/this4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/morejs/truthyandfalsy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/objects/objectLiterals5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/handleClientRequest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/largeOperation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateUserClick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/simulateWebRequest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/starveit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/performance/timeit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/boolean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/numbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/JavaScriptPrimer/variables/variable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/IndentityCrisis/File_1_Identity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHandling_2_FileRead.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_1/Node_JS_AsynchronousWay/errorHandling/errorHanling_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/base/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/client/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/amdmodule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/node/vivek.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/browserify/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/client/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/amd/play/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/create.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/delete.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/delete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/deleteSync.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/fs/deleteSync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/cpus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/os/memory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/dir_base_ext.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/dir_base_ext.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/join.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/join.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/path/normalize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/isType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/log.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/core/util/log.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/buffer/buffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/fileAndDir/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/global/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/argv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/process/nexttick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/clearInterval.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/clearInterval.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setInterval.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setInterval.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setTimeout.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/globals/timers/setTimeout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/base/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/cached/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo2.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/exports/foo3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/factory/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/bar.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/foo.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_2/intro/shared/foo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_1.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_2_JSON.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_2_JSON.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_Basic/Node_Server_8_Static_File.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/main.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/public/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_MutipleFiles/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/Server_WebServer/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/1concepts/eventBased.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/1concepts/eventBased.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/1basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/1basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/2chain.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/2chain.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/2pipe/cool.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/3readable/basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/3readable/basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/basic.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/4writable/basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/5createReadable/counter.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/5createReadable/counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/logger.js" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/logger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/message.txt" afterPath="$PROJECT_DIR$/NodeJS/Tutorial_3/streams/6createWritable/message.txt" />
     </list>
     <ignored path="MeanStackDevelopment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -717,7 +482,7 @@
       <workItem from="1458544892965" duration="580000" />
       <workItem from="1458577516993" duration="12560000" />
       <workItem from="1458613395421" duration="6616000" />
-      <workItem from="1458846985070" duration="749000" />
+      <workItem from="1458846985070" duration="870000" />
     </task>
     <task id="LOCAL-00001" summary="The Checkins for the first tutorial">
       <created>1432441254240</created>
@@ -863,7 +628,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20505000" />
+    <option name="totallyTimeSpent" value="20626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -878,12 +643,12 @@
     <frame x="0" y="23" width="1920" height="1011" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27804106" sideWeight="0.70127505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27804106" sideWeight="0.70127505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36565098" sideWeight="0.52360815" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21762785" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38955387" sideWeight="0.64436406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38955387" sideWeight="0.64436406" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
