@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="../../../../../AngularBoxOffice/angular-seed/app/bower_components/angular/angular.js"></script>
+    <script>
+        angular.module('classApp', [])
+
+                .controller('mainController', function ($scope) {
+
+                });
+
+    </script>
+    <style>
+
+        .bubble {
+            animation: pulse 1s infinite;
+            -webkit-animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            25% {
+                transform: scale(2);
+            }
+            75% {
+                transform: scale(1);
+            }
+        }
+
+        @-webkit-keyframes pulse {
+            0% {
+                -webkit-transform: scale(1);
+            }
+            25% {
+                -webkit-transform: scale(2);
+            }
+            75% {
+                -webkit-transform: scale(1);
+            }
+        }
+    </style>
+
+
+<body>
+<div class="container" ng-app="classApp" ng-controller="mainController">
+
+    <div class="page-header">
+        <h1>Dynamic Angular Classes
+            <small>Evaluated Expression</small>
+        </h1>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+
+            <!-- FORM STUFF =========================== -->
+            <form>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" ng-model="wrong">
+                        Something's Wrong (add <code>.text-error</code> class)
+                    </label>
+                </div>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" ng-model="insane">
+                        Insane Mode (add <code>.bubble</code> class)
+                    </label>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-6">
+
+            <!-- NGCLASS EXAMPLE ============================ -->
+
+            <!--  When using classes with hyphens (like text-success or btn-lg) make sure you put single quotes around the class.
+              Angular requires that the key must be a valid identifier like object literals in JavaScript. text-success is not valid which is why Angular requires the class.-->
+            <div class="jumbotron text-center">
+                <h2 ng-class="{ 'text-danger': wrong, bubble: insane }">
+                    Stuff Stuff
+                </h2>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
