@@ -13,7 +13,7 @@
         form .ng-valid.ng-dirty { background-color: lightgreen; }
 
         input[name='email'].ng-dirty.ng-invalid {
-            color: red;
+            color: yellow;
         }
 
         input[name='email'].ng-dirty.ng-valid {
@@ -40,6 +40,12 @@
                     <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
                            required class="form-control col-sm-10">
                     <span ng-show="firstNameInvalid">Please enter a value for First name</span>
+                    <span ng-show="registrationForm.firstName.$dirty">Is Dirty</span>
+                    <span ng-show="registrationForm.firstName.$touched">Touched</span>
+                    <span ng-show="registrationForm.firstName.$untouched">Untouched</span>
+                    <span ng-show="registrationForm.firstName.$pristine">Pristine</span>
+                    <span ng-show="registrationForm.firstName.$valid">Valid</span>
+
                     <br/>
 
                 </div>
