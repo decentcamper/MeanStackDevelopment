@@ -75,7 +75,7 @@ function loadfileList(callback) {
 }
 
 var server = http.createServer(handler);
-server.listen(3000);
+server.listen(3006);
 console.log('Now we are talking');
 
 

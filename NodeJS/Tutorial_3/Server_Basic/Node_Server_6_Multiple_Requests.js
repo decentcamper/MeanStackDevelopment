@@ -26,6 +26,7 @@ var handler = function (req, res) {
 
     /**
      * This is to serve all the directories with  /carriers.json
+     * localhost:8983/carriers
      */
     if (req.url == '/carriers.json') {
         flightCarrierListHandler(req, res);
@@ -33,7 +34,7 @@ var handler = function (req, res) {
     /**
      * This is to serve individual files in the directories....
      */
-
+    //localhost:8983/carriers/BritishAirways.json
     else if (req.url.substr(0, 9) == '/carriers'
         && req.url.substr(req.url.length - 5) == '.json') {
         flightListHandler(req, res);

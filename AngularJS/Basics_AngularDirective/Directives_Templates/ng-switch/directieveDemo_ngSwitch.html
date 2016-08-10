@@ -27,8 +27,8 @@
         The three values defined by the radio buttons are None,
         Table, and List and use each to represent a layout to display the to-do items.-->
         <div  class="form-control"  ng-repeat="button in ['None', 'Table', 'List']">
-                <input type="radio" ng-model="data.mode"
-                       value="{{button}}" ng-checked="$first" class=" radio-inline" />
+            <input type="radio" ng-model="data.something"
+                   value="{{button}}" ng-checked="$first" class=" radio-inline" />
                 {{button}}
         </div>
     </div>
@@ -37,7 +37,7 @@
     <!--The ng-switch directive is applied with an on attribute that
     specifies the expression that will be evaluated to decide which region
     of content will be displayed-->
-    <div ng-switch on="data.mode">
+    <div ng-switch on="data.something">
 
         <!--ng-switch-when directive to denote a region of content that will be associated with
         a specific value-->

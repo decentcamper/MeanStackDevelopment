@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-// write 
+// write
 fs.writeFileSync('test.txt', 'Hello fs!');
 
 // read

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final App</title>
+    <script src="bower_components/angular/angular.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body ng-app="finalDemoApp" ng-controller="finalDemoAppCtrl">
+<div>
+    <ul>
+        <li ng-repeat="item in flights">
+            {{$index + 1}}
+            {{item.timestamp}}
+            {{item.complete}}
+            {{item.longitude}}
+            {{item.latitude}}
+            {{item.altitude}}
+            {{item.heading}}
+        </li>
+    </ul>
+
+    <div class="form-group">
+        ident: <input type="text" ng-model="newFlight.ident">
+        timestamp: <input type="text" ng-model="newFlight.timestamp">
+        longitude: <input type="text" ng-model="newFlight.longitude">
+        latitude<input type="text" ng-model="newFlight.latitude">
+        groundspeed : <input type="text" ng-model="newFlight.groundspeed">
+        updateType: <input type="text" ng-model="newFlight.updateType">
+        heading : <input type="text" ng-model="newFlight.heading">
+        arrivalTime : <input type="text" ng-model="newFlight.arrivalTime">
+        <button type="button" class="btn btn-primary" ng-click="saveFlight()"> Save Flight</button>
+
+    </div>
+
+</div>
+
+<script src="js/meanStackApp.js"></script>
+
+</body>
+</html>

@@ -79,15 +79,12 @@ function loadfileList(callback) {
     fs.readdir("myFiles/",
         function (err, data) {
             if (err) {
-                callback(err, null);
-                return;
+                return callback(err, null);
             } else {
-
                  var only_directories = [];
-
                 data.forEach(function(elem, index, arr){
                     fs.stat("myFiles/" + data[index], function (err, stat) {
-                       // console.log(this);
+                        console.log("The this value : " + this);
                         if (stat.isDirectory()) {
                             only_directories.push(data[index]);
                         }
@@ -107,7 +104,7 @@ function loadfileList(callback) {
 }
 
 var server = http.createServer(handler);
-server.listen(3000);
+server.listen(3005);
 console.log('Now we are talking');
 
 

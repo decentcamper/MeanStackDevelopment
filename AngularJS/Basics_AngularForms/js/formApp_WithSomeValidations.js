@@ -13,14 +13,14 @@ angular.module("registrationApp", [])
 
 
         $scope.person.channels = [
-            { value: "tv", label: "Television" },
+            {value: "tv", label: "Television", selected: true},
             { value: "radio", label: "Radio" },
             { value: "social-media", label: "Social Media"},
             { value: "other", label: "Other"}
         ];
 
         $scope.person.newsletterOptIn = true;
-        $scope.person.channel = "";
+        $scope.person.channel = "radio";
 
        /* When the document first loads, both firstNameInvalid and lastNameInvalid evaluate to false.
           Consequently, the ngShow directives will keep the span elements, and therefore the validation

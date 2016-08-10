@@ -16,14 +16,14 @@
                         { action: "Call family", complete: false }];
 
                     $scope.buttonNames = ["Red", "Green", "Blue"];
-
                     $scope.settings = {
-                        Rows: "Red",
-                        Columns: "Green"
+                        Rows: "Red"
+
                     };
                 });
     </script>
     <style>
+
         tr.Red { background-color: lightcoral; }
         tr.Green { background-color: lightgreen;}
         tr.Blue { background-color: lightblue; }
@@ -34,15 +34,12 @@
     <h3 class="panel-header">To Do List</h3>
 
     <div class="row well">
-        <div class="col-lg-6" ng-repeat="(key,val) in settings">
-            <h4>{{key}}</h4>
             <div class="radio" ng-repeat="button in buttonNames">
                 <label>
-                    <input type="radio" ng-model="settings[key]"
+                    <input type="radio" ng-model="settings.Rows"
                            value="{{button}}">{{button}}
                 </label>
             </div>
-        </div>
     </div>
     <table class="table">
         <thead>
@@ -51,7 +48,7 @@
         <tr ng-repeat="item in todos" ng-class="settings.Rows">
             <td>{{$index + 1}}</td>
             <td>{{item.action}}</td>
-            <td ng-style="{'background-color': settings.Columns}">
+            <td>
                 {{item.complete}}
             </td>
         </tr>

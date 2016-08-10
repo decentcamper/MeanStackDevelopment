@@ -1,0 +1,22 @@
+{
+  "name": "meansample",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "decentCamper <er.viveksharma@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}

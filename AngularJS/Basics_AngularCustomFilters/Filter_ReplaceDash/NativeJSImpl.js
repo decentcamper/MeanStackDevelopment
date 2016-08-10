@@ -16,19 +16,7 @@ function stripDashes(txt) {
 };
 
 
-function factory(myFun, myarg1, myarg2){
-    return myFun(myarg1, myarg2);
-}
 
-
-function sum(a,b ){
-    return a+b;
-}
-
-
-myfunct = factory(sum,10,20);
-
-myfunct();
 
 console.log(stripDashes("super-basic-plan"));
 console.log(stripDashes("something-with-a-lot-more-dashes-plan"));

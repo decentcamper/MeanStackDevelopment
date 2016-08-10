@@ -8,7 +8,7 @@ var fs = require('fs');
  * Opening the file......
  */
 fs.open(
-    '/info.txt', 'r',
+    '../info.txt', 'r',
     function (err, handle) {
         if (err) {
             console.log("ERROR: " + err.code
@@ -31,6 +31,8 @@ fs.open(
                     console.log("ERROR: " + err.code +
                         " (" + err.message + ")");
                     return;
+                    "" +
+                    "]"
                 }
                 /**
                  * Converting the buffer to string to console log it..

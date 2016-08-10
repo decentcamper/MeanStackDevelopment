@@ -25,7 +25,7 @@ function mySimpleJSDirective(model, selector) {
 }
 
 mySimpleJSDirective.prototype.pleaseApply = function () {
-    var outputHtml = "<table>",
+    var outputHtml = "<table class='table table-bordered table-responsive'>",
         myElements = Array.prototype.slice.call(document.querySelectorAll("." + this.selector));
     for (var i = 0; i < this.model.length; i++) {
         outputHtml += "<tr>";

@@ -6,7 +6,9 @@
     <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
     <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
     <style>
-        .odd { background-color: lightcoral}
+        .odd {
+            background-color: orange
+        }
         .even { background-color: yellow}
 
     </style>
@@ -37,7 +39,7 @@
         an element using a data binding.
         I use a JavaScript ternary expression to assign elements to either
         the odd or even class based on the value of the $odd variable. -->
-        <tr ng-repeat="item in todos" ng-class="$odd ? 'odd' : 'even'">
+        <tr ng-repeat="item in todos" ng-class="$odd ? 'even' : 'odd'">
             <td>{{$index + 1}}</td>
             <td ng-repeat="prop in item">{{prop}}</td>
         </tr>

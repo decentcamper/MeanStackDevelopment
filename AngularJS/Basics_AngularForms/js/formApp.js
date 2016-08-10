@@ -16,7 +16,7 @@ angular.module("registrationApp", [])
         $scope.person.newsletterOptIn = false;
 
         $scope.person.register = function () {
-            <!-- pending implementation -->
+            console.log($scope.person);
         }
 
 

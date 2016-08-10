@@ -29,6 +29,7 @@ MongoClient.connect('mongodb://127.0.0.1:27017/mongo_1', function (err, db) {
     var collection = db.collection('people');
     collection.insert(demoPerson, function (err, docs) {
         console.log('Inserted', docs.ops[0]);
+
         console.log('ID:', demoPerson._id);
 
 

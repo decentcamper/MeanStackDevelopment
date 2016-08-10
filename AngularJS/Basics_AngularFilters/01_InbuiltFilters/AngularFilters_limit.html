@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Limit Filter Demo</title>
-    <script src="../bower_components/angular/angular.min.js"></script>
+    <script src="../../bower_components/angular/angular.min.js"></script>
     <script>
         angular.module('MyAppLimitFilterDemo', []).
                 controller('MyLimitFilterDemoCtrl', function ($scope) {
@@ -27,6 +27,7 @@
 
 
                     $scope.data = someData;
+            $scope.myLimit = 4;
 
                 });
     </script>
@@ -44,8 +45,8 @@ What we actually did was loop through a totally new array;
 an array which was produced by the limitTo filter.-->
 
 <ul>
-    <li ng-repeat="gigabytes in data.monthlyUsageHistory | limitTo:10">
-        {{ gigabytes | number:2}}
+    <li ng-repeat="myVar in data.monthlyUsageHistory | limitTo:-3">
+        {{ myVar | number:4}}
     </li>
 </ul>
 

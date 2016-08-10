@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body ng-app="scopeDemoApp" ng-controller="scopeDemoAppCtrl">
+
+<div bb-string the-message="{{myMessage}}"></div>
+<div bb-expression the-message="theMessage = myMessage + 'Angular JS Directive'"></div>
+<div bb-two-way the-message="myMessage"></div>
+<script src="../../../../AngularBoxOffice/angular-seed/app/bower_components/angular/angular.js"></script>
+<script src="js/scopeDemoApp.js"></script>
+</body>
+</html>

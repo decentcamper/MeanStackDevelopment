@@ -5,12 +5,9 @@ var fs = require('fs');
 fs.open(
     'info.txt', 'r',
     function (err, handle) {     // we'll see more about the err param in a bit
-
         if (err) {
             console.log(err);
             return;
-
-
         }
         var buf = new Buffer(100000);
         fs.read(

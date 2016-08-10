@@ -7,6 +7,24 @@
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
     <script src="../../bower_components/angular/angular.js"></script>
     <script src="../js/formApp_WithSomeValidations.js"></script>
+    <style>
+
+        input.ng-invalid.ng-dirty {
+            border-color: red;
+
+        }
+
+        input.myClass {
+            border-color: red;
+
+        }
+
+        input.ng-valid.ng-dirty {
+            border-color: green;
+
+        }
+
+    </style>
 </head>
 <body>
 <div ng-app="registrationApp" ng-controller="regCtrl">
@@ -14,13 +32,16 @@
     <form name="registrationForm" class="form-horizontal" novalidate ng-submit="register()">
 
         <div class="well">
-
+            <div class="form-group">
+                <img ng-src="../img/filltheFormBelow.png" ng-show="registrationForm.$pristine" width="530" height="50"/>
+            </div>
+        </div>
 
         <div class="form-group">
             <label for="firstName" class="control-label col-sm-2">First Name:</label>
             <div class="col-sm-5">
             <input type="text" id="firstName" placeholder="First Name" name="firstName" ng-model="person.firstName"
-                   required class="form-control col-sm-10">
+                   required class="form-control col-sm-10" ng-class="{'myClass' : firstNameInvalid}">
                 <span ng-show="firstNameInvalid">Please enter a value for First name</span>
                 <br/>
 
@@ -31,7 +52,7 @@
             <label for="lastName" class="control-label col-sm-2"> Last Name: </label>
             <div class="col-sm-5">
                 <input type="text" id="lastName" placeholder="Last Name" name="lastName" ng-model="person.lastName"
-                       required class="form-control">
+                       required class="form-control" ng-class="{'myClass' : lastNameInvalid}">
                 <span ng-show="lastNameInvalid">Please enter a value for Last name</span>
             </div>
 
@@ -40,9 +61,11 @@
         <div class="form-group">
             <label for="email" class="col-sm-2 control-label"> Email Address: </label>
             <div class="col-sm-5">
-                <input class="form-control" id="email" type="email" placeholder="Email" name="email" ng-model="person.email" required>
+                <input class="form-control" id="email" type="email" placeholder="Email" name="email"
+                       ng-model="person.email" ng-class="{'myClass' : emailInvalid}" required>
             </div>
-            <span ng-show="emailInvalid"><br/>A valid email address is required</span>
+
+            <span ng-show="registrationForm.email.$dirty && registrationForm.email.$invalid"><br/>A valid email address is required</span>
 
         </div>
 
@@ -52,7 +75,7 @@
             <label for="channels" class="control-label col-sm-2">Where did you hear from us: </label>
             <div class="col-sm-5">
                 <select name="channels" id="channels" ng-model="person.channel"
-                        ng-options="obj.value as obj.label for obj in person.channels" class="form-control">
+                        ng-options="item.value as item.label for item in person.channels" class="form-control">
                     <option value="">Where did you hear about us?</option>
 
                 </select>

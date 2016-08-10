@@ -2,19 +2,20 @@
 <html>
 <head>
     <title>Date Filter Demo</title>
-    <script src="../bower_components/angular/angular.min.js"></script>
+    <script src="../../bower_components/angular/angular.min.js"></script>
     <script>
+        var someData = { // My Model
+            firstName: 'JENNA',
+            surname: 'GRANT',
+            dateJoined: new Date(2010, 2, 23),
+            anotherDat: "2015-04-18T18:41:44-05:00",
+            consumption: 123.659855,
+            plan: 'super-basic-plan'
+        };
         angular.module('myDateFilterApp', []).
                 controller('MyDateFilterDemoCtrl', function ($scope) {
-                    var someData = {
-                        firstName: 'JENNA',
-                        surname: 'GRANT',
-                        dateJoined: new Date(2010, 2, 23),
-                        anotherDat: "2015-04-18T18:41:44-05:00",
-                        consumption: 123.659855,
-                        plan: 'super-basic-plan'
-                    };
-                    $scope.data = someData;
+
+            $scope.data = someData; // Scope
 
                 });
     </script>

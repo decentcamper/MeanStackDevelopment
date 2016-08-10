@@ -6,15 +6,15 @@
     <link href="../../../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
     <link href="../../../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
     <script>
+        var myModel = [
+            {action: "Get groceries", complete: false},
+            {action: "Call plumber", complete: false},
+            {action: "Buy running shoes", complete: true},
+            {action: "Buy flowers", complete: false},
+            {action: "Call family", complete: false}];
+
         angular.module("directiveDemoApp", [])
                 .controller("directiveDemoAppCtrl", function ($scope) {
-
-                    var myModel = [
-                        { action: "Get groceries", complete: false },
-                        { action: "Call plumber", complete: false },
-                        { action: "Buy running shoes", complete: true },
-                        { action: "Buy flowers", complete: false },
-                        { action: "Call family", complete: false }];
                     $scope.todos = myModel;
                 });
     </script>
@@ -27,6 +27,7 @@
         <tr>
             <th>Action</th>
             <th>Done</th>
+            <th>Is Complete</th>
         </tr>
         </thead>
         <tbody>

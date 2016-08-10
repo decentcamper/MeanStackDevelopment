@@ -1,3 +1,13 @@
+/**
+ * var obj  ={};
+ var obj1 = {
+  a: "a",
+    b: "b",
+}
+
+ obj = obj1;
+ */
+
 var a = function () {
     console.log('a called');
 };

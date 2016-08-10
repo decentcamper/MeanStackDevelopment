@@ -82,7 +82,6 @@ function loadfileList(callback) {
                 callback(err, null);
                 return;
             } else {
-
                 var only_directories = [];
                 for (var i = 0; i < data.length; i++) {
                     fs.stat("myFiles/" + data[i], function (err, stat) {
