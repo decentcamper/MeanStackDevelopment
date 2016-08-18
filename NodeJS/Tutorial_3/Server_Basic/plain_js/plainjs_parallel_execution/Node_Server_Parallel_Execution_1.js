@@ -38,21 +38,6 @@ var handler = function (req, res) {
 };
 
 
-function checkFile(fileName, callBack) {
-    fs.stat("../../myFiles/" + fileName,
-        function (err, stat) {
-            if (err) {
-                return callBack(err);
-            }
-            if (stat.isDirectory()) {
-                callBack(null, true, fileName);
-            } else {
-                callBack(null, false, fileName);
-
-            }
-        })
-}
-
 function loadfileList(callback) {
     fs.readdir("../../myFiles/",
         function (err, data) {
@@ -62,24 +47,37 @@ function loadfileList(callback) {
             var only_directories = [];
             var completed = 0;
             var errored = false;
-            function done(err, result, fileName) {
-                console.log("Called Done >>>>" + fileName + " result is >>>" + result);
+
+            /**
+             * The final callback...
+             * @param err
+             * @returns {*}
+             */
+            function done(err) {
                 if (err) {
                     errored = true;
                     return callback(err, null);
                 }
-                if (result) {
-                    only_directories.push(fileName)
-                }
-                if (++completed === data.length && !errored) {
-                    callback(null, only_directories)
-                }
+                callback(null, only_directories)
+
             }
+
             data.forEach(function (file) {
-                checkFile(file, done);
+                fs.stat("../../myFiles/" + file,
+                    function (err, stat) {
+                        if (err) {
+                            errored = true;
+                            return done(err);
+                        }
+                        if (stat.isDirectory()) {
+                            only_directories.push(file)
+                        }
+                        if (++completed === data.length && !errored) {
+                            done(null);
+                        }
+
+                    })
             })
-
-
         })
 }
 

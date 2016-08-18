@@ -39,7 +39,7 @@ var handler = function (req, res) {
 function verifyAndLoadfileList(callback) {
     fs.exists("../../myFiles/result/result.txt", function (exists) {
         if (!exists) {
-            loadfileList(callback); // task 2
+            loadfileList(callback); // task 1
         } else {
             callback(null, "The File is already there !!!!!")
         }
@@ -53,7 +53,7 @@ function loadfileList(callback) {
             if (err) {
                 return callback(err, null);
             }
-            writeFile(data, callback); // task 2
+            writeFile(data, callback); // task 2 [passing the result of the previous asynchronous function to the next......]
         })
 }
 
@@ -63,7 +63,7 @@ function writeFile(data, callback) {
         if (err) {
             return callback(err);
         }
-        callback(null, "File written Successfully");
+        callback(null, "File written Successfully"); //finally the callback is called with the result.....
     });
 
 }

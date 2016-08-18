@@ -51,9 +51,9 @@ function loadfileList(callback) {
                 return callback(err, null); // return the callback to not have the full if else blocks.Keeps our code Shallow...
             }
             var only_directories = [];
-            (function iterator(index) {
+            (function iterator(index) { // we are going in for recursive iteration in place of a for loop
                 if (index == data.length) {
-                    writeFile(only_directories, callback); // task 2
+                    writeFile(only_directories, callback); // task 2 : Only calling the write file when we have recursively called the function for the length of the task
                 } else {
                     fs.stat("../../myFiles/" + data[index],
                         function (err, stat) {

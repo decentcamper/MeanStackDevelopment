@@ -52,7 +52,9 @@ function loadfileList(callback) {
             }
             var only_directories = [];
             for (var i = 0; i < data.length; i++) {
-                fs.stat("../../myFiles/" + data[i], function (err, stat) {
+                fs.stat("../../myFiles/" + data[i], function (err, stat) { // By the time this call back when put on to the execution stack,
+                    // we have already called  writeFile(only_directories, callback) with
+                    // the only_directories as an empty array....
                     if (stat.isDirectory()) {
                         only_directories.push(data[i]);
                     }
