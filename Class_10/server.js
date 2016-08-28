@@ -1,20 +1,16 @@
 var mongoose = require('mongoose');
 var express = require('express');
 var bodyParser = require('body-parser');
-mongoose.connect('mongodb://localhost/FlightsDB');
+var Flight = require('./model');
 var app = express();
-var Flight = mongoose.model('Flight', {
-    ident: String,
-    timestamp: String,
-    longitude: String,
-    latitude: String,
-    groundSpeed: String,
-    updateType: String,
-    heading: String,
-    arrivalTime: String
-});
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.json());
+mongoose.connect('mongodb://localhost/flightsdb');
+
+
+
+
+
 app.get('/getCarriers', function (req, res) {
     Flight.find(function (err, flights) {
         if (err) {
@@ -22,8 +18,10 @@ app.get('/getCarriers', function (req, res) {
             res.send(err);
         }
         res.send(flights);
-    })
+    }).limit(20);
 });
+
+
 app.post('/saveLFlight', function (req, res) {
     var flight = req.body.flight;
     var flightm = new Flight({
@@ -43,7 +41,6 @@ app.post('/saveLFlight', function (req, res) {
             res.send(err);
         }
         res.send();
-
     })
 
 });

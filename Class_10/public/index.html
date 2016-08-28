@@ -10,17 +10,24 @@
 </head>
 <body ng-app="finalDemoApp" ng-controller="finalDemoAppCtrl">
 <div>
-    <ul>
-        <li ng-repeat="item in flights">
-            {{$index + 1}}
-            {{item.timestamp}}
-            {{item.complete}}
-            {{item.longitude}}
-            {{item.latitude}}
-            {{item.altitude}}
-            {{item.heading}}
-        </li>
-    </ul>
+    <table>
+        <tr ng-repeat="item in flights">
+            <td>{{$index + 1}}</td>
+            <td>{{item.CARRIER}}</td>
+            <td>{{item.ORIGIN}}</td>
+            <td>{{item.ORIGIN_CITY_NAME}}</td>
+            <td>{{item.ORIGIN_STATE_ABR}}</td>
+            <td>{{item.ORIGIN_STATE_FIPS}}</td>
+            <td>{{item.ORIGIN_STATE_NM}}</td>
+            <td>{{item.ORIGIN_WAC}}</td>
+            <td>{{item.DEST}}</td>
+            <td>{{item.DEST_CITY_NAME}}</td>
+            <td>{{item.DEP_TIME}}</td>
+            <td>{{item.ARR_TIME}}</td>
+        </tr>
+
+    </table>
+
 
     <div class="form-group">
         ident: <input type="text" ng-model="newFlight.ident">
