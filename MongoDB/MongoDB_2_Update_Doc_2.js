@@ -39,7 +39,7 @@ var findKey = {
     url: 'http://www.google.com'
 };
 
-MongoClient.connect('mongodb://127.0.0.1:27017/demo', function (err, db) {
+MongoClient.connect('mongodb://localhost/demo', function (err, db) {
     if (err) throw err;
 
     var collection = db.collection('websites');
